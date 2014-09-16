@@ -12,6 +12,7 @@ WriteMakefile(
   					'Mojolicious' => '2.0', 
   					'Bread::Board' => '0.32',
   					'Search::Elasticsearch' => '1.14',
+  					'Data::Printer' => '0.35',
   					},
   test         => {TESTS => 't/*.t'}
 );
