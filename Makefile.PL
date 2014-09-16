@@ -6,8 +6,12 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
   NAME         => 'app.pl',
   VERSION      => '1.0',
-  AUTHOR       => 'Magnus Holm <judofyr@gmail.com>',
+  AUTHOR       => 'Safta Catalin Mihai <saftacatalinmihai@gmail.com>',
   EXE_FILES    => ['app.pl'],
-  PREREQ_PM    => {'Mojolicious' => '2.0', 'Bread::Board'},
+  PREREQ_PM    => { 
+  					'Mojolicious' => '2.0', 
+  					'Bread::Board' => '0.32',
+  					'Search::Elasticsearch' => '1.14',
+  					},
   test         => {TESTS => 't/*.t'}
 );

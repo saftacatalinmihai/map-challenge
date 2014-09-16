@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en" ng-app='mapChallange'>
+<head>
+  <meta charset="utf-8">
+  <title>My HTML File</title>
+  <link rel="stylesheet" href="bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css">
+  <script type="text/javascript", src="angular/angular.js"></script>
+  <script type="text/javascript", src="angular/angular-resource.js"></script>
+  <script type="text/javascript", src="jQuery/jquery-2.1.1.js"></script>
+  <script type="text/javascript", src="controller/places.js"></script>
+  <script type="text/javascript", src="controller/test.js"></script>
+</head>
+<body ng-controller="PlacesList">
+<h3>TEST</h3>
+  <ul>
+  	<li ng-repeat='place in places'>
+  		{{place.name}}
+  		<p>{{place.geo_location}}</p>
+  	</li>
+  </ul>
+
+  <!-- <button>Get External Content</button> -->
+  <form id='form' action='add_place'>
+  	<textarea name='name'></textarea>
+  	<textarea name='geo_location'></textarea>
+  	<input type='submit' id='submitter'>
+  </form>
+</body>
+</html>
