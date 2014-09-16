@@ -8,6 +8,6 @@ WriteMakefile(
   VERSION      => '1.0',
   AUTHOR       => 'Magnus Holm <judofyr@gmail.com>',
   EXE_FILES    => ['app.pl'],
-  PREREQ_PM    => {'Mojolicious' => '2.0'},
+  PREREQ_PM    => {'Mojolicious' => '2.0', 'Bread::Board'},
   test         => {TESTS => 't/*.t'}
 );
