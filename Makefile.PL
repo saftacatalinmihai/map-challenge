@@ -13,6 +13,7 @@ WriteMakefile(
   					'Bread::Board' => '0.32',
   					'Search::Elasticsearch' => '1.14',
   					'Data::Printer' => '0.35',
+  					'MongoDB' => 'v0.705.0.0',
   					},
   test         => {TESTS => 't/*.t'}
 );
