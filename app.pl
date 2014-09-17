@@ -80,8 +80,6 @@ my $c = container 'MapChallange' => ['Env'] => as {
 	};
 
 	container 'Search' => as {
-		service 'host' => 'localhost';
-		service 'port' => '9200';
 		service 'search_engine' => (
 			block => sub {
 				my $s = shift;
@@ -92,7 +90,10 @@ my $c = container 'MapChallange' => ['Env'] => as {
 				); 
 			},
 			lifecycle => 'Singleton',
-			dependencies => ['host', 'port']
+			dependencies => {
+				'host'     => '/Env/elastic_host',
+				'port'	   => '/Env/elastic_port',
+			},
 		);
 	};
 };
