@@ -1,0 +1,1373 @@
+[Wed Sep 17 18:21:37 2014] [info] Listening at "http://*:4000".
+[Wed Sep 17 18:22:31 2014] [info] Listening at "http://*:4000".
+[Wed Sep 17 18:22:36 2014] [info] Listening at "http://*:4000".
+[Wed Sep 17 18:23:16 2014] [info] Listening at "http://*:4000".
+[Wed Sep 17 18:25:42 2014] [info] Listening at "http://*:4000".
+[Wed Sep 17 18:26:00 2014] [info] Listening at "http://*:4000".
+[Wed Sep 17 18:26:31 2014] [info] Listening at "http://*:4000".
+[Wed Sep 17 18:27:37 2014] [info] Listening at "http://*:4000".
+[Wed Sep 17 18:41:35 2014] [info] Listening at "http://*:4000".
+[Wed Sep 17 18:41:36 2014] [debug] GET "/index".
+[Wed Sep 17 18:41:36 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:41:36 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:41:36 2014] [debug] 200 OK (0.003988s, 250.752/s).
+[Wed Sep 17 18:41:37 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:41:37 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:41:37 2014] [debug] 200 OK (0.000854s, 1170.960/s).
+[Wed Sep 17 18:41:38 2014] [debug] GET "/index".
+[Wed Sep 17 18:41:38 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:41:38 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 18:41:38 2014] [debug] 200 OK (0.000900s, 1111.111/s).
+[Wed Sep 17 18:41:39 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:41:39 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:41:39 2014] [debug] 200 OK (0.000765s, 1307.190/s).
+[Wed Sep 17 18:44:32 2014] [debug] GET "/index".
+[Wed Sep 17 18:44:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:44:32 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:44:32 2014] [debug] 200 OK (0.003558s, 281.057/s).
+[Wed Sep 17 18:44:32 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:44:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:44:32 2014] [debug] 200 OK (0.000807s, 1239.157/s).
+[Wed Sep 17 18:45:00 2014] [debug] GET "/index".
+[Wed Sep 17 18:45:00 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:45:00 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:45:00 2014] [debug] 200 OK (0.005552s, 180.115/s).
+[Wed Sep 17 18:45:00 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:45:00 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:45:00 2014] [debug] 200 OK (0.000862s, 1160.093/s).
+[Wed Sep 17 18:47:27 2014] [debug] GET "/index".
+[Wed Sep 17 18:47:27 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:47:27 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:47:27 2014] [debug] 200 OK (0.003897s, 256.608/s).
+[Wed Sep 17 18:47:27 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:47:27 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:47:27 2014] [debug] 200 OK (0.000762s, 1312.336/s).
+[Wed Sep 17 18:47:40 2014] [debug] POST "/add_place".
+[Wed Sep 17 18:47:40 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 18:47:40 2014] [debug] 200 OK (0.155130s, 6.446/s).
+[Wed Sep 17 18:47:40 2014] [debug] GET "/index".
+[Wed Sep 17 18:47:40 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:47:40 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 18:47:40 2014] [debug] 200 OK (0.000525s, 1904.762/s).
+[Wed Sep 17 18:47:40 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:47:40 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:47:40 2014] [debug] 200 OK (0.000856s, 1168.224/s).
+[Wed Sep 17 18:48:31 2014] [debug] GET "/index".
+[Wed Sep 17 18:48:31 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:48:31 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:48:31 2014] [debug] 200 OK (0.003430s, 291.545/s).
+[Wed Sep 17 18:48:31 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:48:31 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:48:31 2014] [debug] 200 OK (0.000995s, 1005.025/s).
+[Wed Sep 17 18:49:06 2014] [debug] GET "/index".
+[Wed Sep 17 18:49:06 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:49:06 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:49:06 2014] [debug] 200 OK (0.003360s, 297.619/s).
+[Wed Sep 17 18:49:06 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:49:06 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:49:06 2014] [debug] 200 OK (0.000891s, 1122.334/s).
+[Wed Sep 17 18:50:07 2014] [debug] GET "/index".
+[Wed Sep 17 18:50:07 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:50:07 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:50:07 2014] [debug] 200 OK (0.003933s, 254.259/s).
+[Wed Sep 17 18:50:07 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:50:07 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:50:07 2014] [debug] 200 OK (0.001014s, 986.193/s).
+[Wed Sep 17 18:50:28 2014] [debug] GET "/index".
+[Wed Sep 17 18:50:28 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:50:28 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:50:28 2014] [debug] 200 OK (0.006372s, 156.937/s).
+[Wed Sep 17 18:50:28 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:50:28 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:50:28 2014] [debug] 200 OK (0.000934s, 1070.664/s).
+[Wed Sep 17 18:51:10 2014] [debug] GET "/index".
+[Wed Sep 17 18:51:10 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:51:10 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:51:10 2014] [debug] 200 OK (0.005273s, 189.645/s).
+[Wed Sep 17 18:51:10 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:51:10 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:51:10 2014] [debug] 200 OK (0.000847s, 1180.638/s).
+[Wed Sep 17 18:51:35 2014] [debug] GET "/index".
+[Wed Sep 17 18:51:35 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:51:35 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:51:35 2014] [debug] 200 OK (0.003591s, 278.474/s).
+[Wed Sep 17 18:51:35 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:51:35 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:51:35 2014] [debug] 200 OK (0.000941s, 1062.699/s).
+[Wed Sep 17 18:52:07 2014] [debug] GET "/index".
+[Wed Sep 17 18:52:07 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:52:07 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:52:07 2014] [debug] 200 OK (0.003272s, 305.623/s).
+[Wed Sep 17 18:52:07 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:52:07 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:52:07 2014] [debug] 200 OK (0.001313s, 761.615/s).
+[Wed Sep 17 18:52:17 2014] [debug] GET "/index".
+[Wed Sep 17 18:52:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:52:17 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:52:17 2014] [debug] 200 OK (0.003601s, 277.701/s).
+[Wed Sep 17 18:52:18 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:52:18 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:52:18 2014] [debug] 200 OK (0.000907s, 1102.536/s).
+[Wed Sep 17 18:54:06 2014] [debug] GET "/index".
+[Wed Sep 17 18:54:06 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:54:06 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:54:06 2014] [debug] 200 OK (0.003629s, 275.558/s).
+[Wed Sep 17 18:54:06 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:54:06 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:54:06 2014] [debug] 200 OK (0.001109s, 901.713/s).
+[Wed Sep 17 18:58:46 2014] [debug] GET "/index".
+[Wed Sep 17 18:58:46 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:58:46 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:58:46 2014] [debug] 200 OK (0.004437s, 225.378/s).
+[Wed Sep 17 18:58:57 2014] [debug] GET "/index".
+[Wed Sep 17 18:58:57 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:58:57 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:58:57 2014] [debug] 200 OK (0.003268s, 305.998/s).
+[Wed Sep 17 18:58:58 2014] [debug] GET "/index".
+[Wed Sep 17 18:58:58 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:58:58 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 18:58:58 2014] [debug] 200 OK (0.000652s, 1533.742/s).
+[Wed Sep 17 18:59:22 2014] [debug] GET "/index".
+[Wed Sep 17 18:59:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 18:59:22 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 18:59:22 2014] [debug] 200 OK (0.003363s, 297.354/s).
+[Wed Sep 17 18:59:22 2014] [debug] GET "/get_places".
+[Wed Sep 17 18:59:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 18:59:22 2014] [debug] 200 OK (0.001056s, 946.970/s).
+[Wed Sep 17 19:03:00 2014] [debug] GET "/index".
+[Wed Sep 17 19:03:00 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:03:00 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:03:00 2014] [debug] 200 OK (0.003838s, 260.552/s).
+[Wed Sep 17 19:03:34 2014] [debug] GET "/index".
+[Wed Sep 17 19:03:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:03:34 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:03:34 2014] [debug] 200 OK (0.003897s, 256.608/s).
+[Wed Sep 17 19:03:34 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:03:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:03:34 2014] [debug] 200 OK (0.001058s, 945.180/s).
+[Wed Sep 17 19:04:41 2014] [debug] GET "/index".
+[Wed Sep 17 19:04:41 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:04:41 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:04:41 2014] [debug] 200 OK (0.003935s, 254.130/s).
+[Wed Sep 17 19:04:41 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:04:41 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:04:41 2014] [debug] 200 OK (0.001215s, 823.045/s).
+[Wed Sep 17 19:04:56 2014] [debug] GET "/index".
+[Wed Sep 17 19:04:56 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:04:56 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:04:56 2014] [debug] 200 OK (0.004643s, 215.378/s).
+[Wed Sep 17 19:04:56 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:04:56 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:04:56 2014] [debug] 200 OK (0.001248s, 801.282/s).
+[Wed Sep 17 19:07:28 2014] [debug] GET "/index".
+[Wed Sep 17 19:07:28 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:07:28 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:07:28 2014] [debug] 200 OK (0.004168s, 239.923/s).
+[Wed Sep 17 19:07:28 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:07:28 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:07:28 2014] [debug] 200 OK (0.001003s, 997.009/s).
+[Wed Sep 17 19:07:35 2014] [debug] GET "/index".
+[Wed Sep 17 19:07:35 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:07:35 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:07:35 2014] [debug] 200 OK (0.000740s, 1351.351/s).
+[Wed Sep 17 19:07:35 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:07:35 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:07:35 2014] [debug] 200 OK (0.000742s, 1347.709/s).
+[Wed Sep 17 19:08:24 2014] [debug] GET "/index".
+[Wed Sep 17 19:08:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:08:24 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:08:24 2014] [debug] 200 OK (0.003974s, 251.636/s).
+[Wed Sep 17 19:08:24 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:08:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:08:24 2014] [debug] 200 OK (0.000992s, 1008.065/s).
+[Wed Sep 17 19:13:43 2014] [debug] GET "/index".
+[Wed Sep 17 19:13:43 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:13:43 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:13:43 2014] [debug] 200 OK (0.004033s, 247.954/s).
+[Wed Sep 17 19:13:44 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:13:44 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:13:44 2014] [debug] 200 OK (0.000983s, 1017.294/s).
+[Wed Sep 17 19:13:45 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:13:45 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:13:45 2014] [debug] 200 OK (0.014575s, 68.611/s).
+[Wed Sep 17 19:13:51 2014] [debug] GET "/index".
+[Wed Sep 17 19:13:51 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:13:51 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:13:51 2014] [debug] 200 OK (0.000541s, 1848.429/s).
+[Wed Sep 17 19:13:52 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:13:52 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:13:52 2014] [debug] 200 OK (0.000773s, 1293.661/s).
+[Wed Sep 17 19:14:24 2014] [debug] GET "/index".
+[Wed Sep 17 19:14:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:14:24 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:14:24 2014] [debug] 200 OK (0.004186s, 238.892/s).
+[Wed Sep 17 19:14:24 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:14:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:14:24 2014] [debug] 200 OK (0.000887s, 1127.396/s).
+[Wed Sep 17 19:14:26 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:14:26 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:14:26 2014] [error] Not a SCALAR reference at lib/MapChallange/Controller/Base.pm line 20.
+
+[Wed Sep 17 19:14:26 2014] [debug] Template "exception.development.html.ep" not found.
+[Wed Sep 17 19:14:26 2014] [debug] Template "exception.html.ep" not found.
+[Wed Sep 17 19:14:26 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Wed Sep 17 19:14:26 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Wed Sep 17 19:14:26 2014] [debug] 500 Internal Server Error (0.013549s, 73.806/s).
+[Wed Sep 17 19:14:43 2014] [debug] GET "/index".
+[Wed Sep 17 19:14:43 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:14:43 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:14:43 2014] [debug] 200 OK (0.000765s, 1307.190/s).
+[Wed Sep 17 19:14:43 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:14:43 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:14:43 2014] [debug] 200 OK (0.000791s, 1264.223/s).
+[Wed Sep 17 19:14:47 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:14:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:14:47 2014] [error] Not a SCALAR reference at lib/MapChallange/Controller/Base.pm line 20.
+
+[Wed Sep 17 19:14:47 2014] [debug] Template "exception.development.html.ep" not found.
+[Wed Sep 17 19:14:47 2014] [debug] Template "exception.html.ep" not found.
+[Wed Sep 17 19:14:47 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Wed Sep 17 19:14:47 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Wed Sep 17 19:14:47 2014] [debug] 500 Internal Server Error (0.004344s, 230.203/s).
+[Wed Sep 17 19:15:11 2014] [info] Listening at "http://*:4000".
+[Wed Sep 17 19:15:14 2014] [debug] GET "/index".
+[Wed Sep 17 19:15:14 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:15:14 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:15:14 2014] [debug] 200 OK (0.003717s, 269.034/s).
+[Wed Sep 17 19:15:14 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:15:14 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:15:14 2014] [debug] 200 OK (0.001153s, 867.303/s).
+[Wed Sep 17 19:15:19 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:15:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:15:19 2014] [error] Not a SCALAR reference at lib/MapChallange/Controller/Base.pm line 20.
+
+[Wed Sep 17 19:15:19 2014] [debug] Template "exception.development.html.ep" not found.
+[Wed Sep 17 19:15:19 2014] [debug] Template "exception.html.ep" not found.
+[Wed Sep 17 19:15:19 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Wed Sep 17 19:15:19 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Wed Sep 17 19:15:19 2014] [debug] 500 Internal Server Error (0.013756s, 72.696/s).
+[Wed Sep 17 19:16:20 2014] [debug] GET "/index".
+[Wed Sep 17 19:16:20 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:16:20 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:16:20 2014] [debug] 200 OK (0.003939s, 253.872/s).
+[Wed Sep 17 19:16:20 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:16:20 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:16:20 2014] [debug] 200 OK (0.000954s, 1048.218/s).
+[Wed Sep 17 19:16:22 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:16:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:16:22 2014] [error] Not a SCALAR reference at lib/MapChallange/Controller/Base.pm line 20.
+
+[Wed Sep 17 19:16:22 2014] [debug] Template "exception.development.html.ep" not found.
+[Wed Sep 17 19:16:22 2014] [debug] Template "exception.html.ep" not found.
+[Wed Sep 17 19:16:22 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Wed Sep 17 19:16:22 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Wed Sep 17 19:16:22 2014] [debug] 500 Internal Server Error (0.013725s, 72.860/s).
+[Wed Sep 17 19:16:39 2014] [debug] GET "/index".
+[Wed Sep 17 19:16:39 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:16:39 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:16:39 2014] [debug] 200 OK (0.006375s, 156.863/s).
+[Wed Sep 17 19:16:39 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:16:39 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:16:39 2014] [debug] 200 OK (0.000981s, 1019.368/s).
+[Wed Sep 17 19:16:41 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:16:41 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:16:41 2014] [debug] 200 OK (0.015913s, 62.842/s).
+[Wed Sep 17 19:17:33 2014] [debug] GET "/index".
+[Wed Sep 17 19:17:33 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:17:33 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:17:33 2014] [debug] 200 OK (0.004574s, 218.627/s).
+[Wed Sep 17 19:17:45 2014] [debug] GET "/index".
+[Wed Sep 17 19:17:45 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:17:45 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:17:45 2014] [debug] 200 OK (0.003432s, 291.375/s).
+[Wed Sep 17 19:17:54 2014] [debug] GET "/index".
+[Wed Sep 17 19:17:54 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:17:54 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:17:54 2014] [debug] 200 OK (0.000809s, 1236.094/s).
+[Wed Sep 17 19:17:55 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:17:55 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:17:55 2014] [debug] 200 OK (0.001468s, 681.199/s).
+[Wed Sep 17 19:17:57 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:17:57 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:17:57 2014] [debug] 200 OK (0.016292s, 61.380/s).
+[Wed Sep 17 19:19:17 2014] [debug] GET "/index".
+[Wed Sep 17 19:19:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:19:17 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:19:17 2014] [debug] 200 OK (0.003790s, 263.852/s).
+[Wed Sep 17 19:19:17 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:19:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:19:17 2014] [debug] 200 OK (0.000913s, 1095.290/s).
+[Wed Sep 17 19:19:19 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:19:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:19:19 2014] [debug] 200 OK (0.000904s, 1106.195/s).
+[Wed Sep 17 19:19:31 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:19:31 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:19:31 2014] [debug] 200 OK (0.000732s, 1366.120/s).
+[Wed Sep 17 19:19:35 2014] [debug] GET "/index".
+[Wed Sep 17 19:19:35 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:19:35 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:19:35 2014] [debug] 200 OK (0.000640s, 1562.500/s).
+[Wed Sep 17 19:19:35 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:19:35 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:19:35 2014] [debug] 200 OK (0.001183s, 845.309/s).
+[Wed Sep 17 19:21:06 2014] [debug] GET "/index".
+[Wed Sep 17 19:21:06 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:21:06 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:21:06 2014] [debug] 200 OK (0.003424s, 292.056/s).
+[Wed Sep 17 19:21:06 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:21:06 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:21:06 2014] [debug] 200 OK (0.001104s, 905.797/s).
+[Wed Sep 17 19:21:08 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:21:08 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:21:08 2014] [debug] 200 OK (0.000924s, 1082.251/s).
+[Wed Sep 17 19:24:15 2014] [debug] GET "/index".
+[Wed Sep 17 19:24:15 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:24:15 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:24:15 2014] [debug] 200 OK (0.004744s, 210.793/s).
+[Wed Sep 17 19:24:16 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:24:16 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:24:16 2014] [debug] 200 OK (0.001135s, 881.057/s).
+[Wed Sep 17 19:24:18 2014] [debug] GET "/index".
+[Wed Sep 17 19:24:18 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:24:18 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:24:18 2014] [debug] 200 OK (0.000681s, 1468.429/s).
+[Wed Sep 17 19:24:18 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:24:18 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:24:18 2014] [debug] 200 OK (0.000831s, 1203.369/s).
+[Wed Sep 17 19:24:19 2014] [debug] GET "/index".
+[Wed Sep 17 19:24:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:24:19 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:24:19 2014] [debug] 200 OK (0.000940s, 1063.830/s).
+[Wed Sep 17 19:24:19 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:24:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:24:19 2014] [debug] 200 OK (0.000937s, 1067.236/s).
+[Wed Sep 17 19:24:21 2014] [debug] GET "/index".
+[Wed Sep 17 19:24:21 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:24:21 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:24:21 2014] [debug] 200 OK (0.000399s, 2506.266/s).
+[Wed Sep 17 19:24:21 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:24:21 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:24:21 2014] [debug] 200 OK (0.001053s, 949.668/s).
+[Wed Sep 17 19:24:22 2014] [debug] GET "/index".
+[Wed Sep 17 19:24:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:24:22 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:24:22 2014] [debug] 200 OK (0.000681s, 1468.429/s).
+[Wed Sep 17 19:24:22 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:24:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:24:22 2014] [debug] 200 OK (0.001341s, 745.712/s).
+[Wed Sep 17 19:24:23 2014] [debug] GET "/index".
+[Wed Sep 17 19:24:23 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:24:23 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:24:23 2014] [debug] 200 OK (0.000471s, 2123.142/s).
+[Wed Sep 17 19:24:23 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:24:23 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:24:23 2014] [debug] 200 OK (0.000818s, 1222.494/s).
+[Wed Sep 17 19:24:24 2014] [debug] GET "/index".
+[Wed Sep 17 19:24:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:24:24 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:24:24 2014] [debug] 200 OK (0.000497s, 2012.072/s).
+[Wed Sep 17 19:24:24 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:24:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:24:24 2014] [debug] 200 OK (0.000999s, 1001.001/s).
+[Wed Sep 17 19:24:26 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:24:26 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:24:26 2014] [debug] 200 OK (0.001063s, 940.734/s).
+[Wed Sep 17 19:24:29 2014] [debug] GET "/index".
+[Wed Sep 17 19:24:29 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:24:29 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:24:29 2014] [debug] 200 OK (0.000493s, 2028.398/s).
+[Wed Sep 17 19:24:29 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:24:29 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:24:29 2014] [debug] 200 OK (0.000990s, 1010.101/s).
+[Wed Sep 17 19:24:43 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:24:43 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:24:43 2014] [debug] 200 OK (0.000701s, 1426.534/s).
+[Wed Sep 17 19:25:31 2014] [debug] GET "/index".
+[Wed Sep 17 19:25:31 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:25:31 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:25:31 2014] [debug] 200 OK (0.004025s, 248.447/s).
+[Wed Sep 17 19:25:31 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:25:31 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:25:31 2014] [debug] 200 OK (0.001531s, 653.168/s).
+[Wed Sep 17 19:25:34 2014] [debug] GET "/index".
+[Wed Sep 17 19:25:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:25:34 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:25:34 2014] [debug] 200 OK (0.000664s, 1506.024/s).
+[Wed Sep 17 19:25:34 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:25:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:25:34 2014] [debug] 200 OK (0.000842s, 1187.648/s).
+[Wed Sep 17 19:25:56 2014] [debug] GET "/index".
+[Wed Sep 17 19:25:56 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:25:56 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:25:56 2014] [debug] 200 OK (0.000495s, 2020.202/s).
+[Wed Sep 17 19:25:57 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:25:57 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:25:57 2014] [debug] 200 OK (0.000840s, 1190.476/s).
+[Wed Sep 17 19:25:59 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:25:59 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:25:59 2014] [debug] 200 OK (0.001060s, 943.396/s).
+[Wed Sep 17 19:26:11 2014] [debug] GET "/index".
+[Wed Sep 17 19:26:11 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:26:11 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:26:11 2014] [debug] 200 OK (0.000585s, 1709.402/s).
+[Wed Sep 17 19:26:11 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:26:11 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:26:11 2014] [debug] 200 OK (0.000836s, 1196.172/s).
+[Wed Sep 17 19:26:12 2014] [debug] GET "/index".
+[Wed Sep 17 19:26:12 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:26:12 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:26:12 2014] [debug] 200 OK (0.000807s, 1239.157/s).
+[Wed Sep 17 19:26:12 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:26:12 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:26:12 2014] [debug] 200 OK (0.000658s, 1519.757/s).
+[Wed Sep 17 19:26:17 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:26:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:26:17 2014] [debug] 200 OK (0.000760s, 1315.789/s).
+[Wed Sep 17 19:26:59 2014] [debug] GET "/index".
+[Wed Sep 17 19:26:59 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:26:59 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:26:59 2014] [debug] 200 OK (0.003357s, 297.885/s).
+[Wed Sep 17 19:26:59 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:26:59 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:26:59 2014] [debug] 200 OK (0.001118s, 894.454/s).
+[Wed Sep 17 19:28:10 2014] [debug] GET "/index".
+[Wed Sep 17 19:28:10 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:28:10 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:28:10 2014] [debug] 200 OK (0.003216s, 310.945/s).
+[Wed Sep 17 19:28:10 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:28:10 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:28:10 2014] [debug] 200 OK (0.000920s, 1086.957/s).
+[Wed Sep 17 19:28:13 2014] [debug] GET "/index".
+[Wed Sep 17 19:28:13 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:28:13 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:28:13 2014] [debug] 200 OK (0.000500s, 2000.000/s).
+[Wed Sep 17 19:28:13 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:28:13 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:28:13 2014] [debug] 200 OK (0.000745s, 1342.282/s).
+[Wed Sep 17 19:29:01 2014] [debug] GET "/index".
+[Wed Sep 17 19:29:01 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:29:01 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:29:01 2014] [debug] 200 OK (0.003586s, 278.862/s).
+[Wed Sep 17 19:29:01 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:29:01 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:29:01 2014] [debug] 200 OK (0.001142s, 875.657/s).
+[Wed Sep 17 19:29:05 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:29:05 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:29:05 2014] [debug] 200 OK (0.001433s, 697.837/s).
+[Wed Sep 17 19:29:17 2014] [debug] GET "/index".
+[Wed Sep 17 19:29:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:29:17 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:29:17 2014] [debug] 200 OK (0.003270s, 305.810/s).
+[Wed Sep 17 19:29:17 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:29:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:29:17 2014] [debug] 200 OK (0.000942s, 1061.571/s).
+[Wed Sep 17 19:29:18 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:29:18 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:29:18 2014] [debug] 200 OK (0.000917s, 1090.513/s).
+[Wed Sep 17 19:29:33 2014] [debug] GET "/index".
+[Wed Sep 17 19:29:33 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:29:33 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:29:33 2014] [debug] 200 OK (0.006152s, 162.549/s).
+[Wed Sep 17 19:29:33 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:29:33 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:29:33 2014] [debug] 200 OK (0.001339s, 746.826/s).
+[Wed Sep 17 19:29:35 2014] [debug] GET "/index".
+[Wed Sep 17 19:29:35 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:29:35 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:29:35 2014] [debug] 200 OK (0.000876s, 1141.553/s).
+[Wed Sep 17 19:29:35 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:29:35 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:29:35 2014] [debug] 200 OK (0.000868s, 1152.074/s).
+[Wed Sep 17 19:29:37 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:29:37 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:29:37 2014] [debug] 200 OK (0.000913s, 1095.290/s).
+[Wed Sep 17 19:29:42 2014] [debug] GET "/index".
+[Wed Sep 17 19:29:42 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:29:42 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:29:42 2014] [debug] 200 OK (0.000676s, 1479.290/s).
+[Wed Sep 17 19:29:43 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:29:43 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:29:43 2014] [debug] 200 OK (0.001147s, 871.840/s).
+[Wed Sep 17 19:29:49 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:29:49 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:29:49 2014] [debug] 200 OK (0.001616s, 618.812/s).
+[Wed Sep 17 19:29:55 2014] [debug] GET "/index".
+[Wed Sep 17 19:29:55 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:29:55 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:29:55 2014] [debug] 200 OK (0.003195s, 312.989/s).
+[Wed Sep 17 19:29:55 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:29:55 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:29:55 2014] [debug] 200 OK (0.001179s, 848.176/s).
+[Wed Sep 17 19:31:19 2014] [debug] GET "/index".
+[Wed Sep 17 19:31:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:31:19 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:31:19 2014] [debug] 200 OK (0.003733s, 267.881/s).
+[Wed Sep 17 19:31:19 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:31:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:31:19 2014] [debug] 200 OK (0.001382s, 723.589/s).
+[Wed Sep 17 19:31:21 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:31:21 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:31:21 2014] [debug] 200 OK (0.001088s, 919.118/s).
+[Wed Sep 17 19:32:26 2014] [debug] GET "/index".
+[Wed Sep 17 19:32:26 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:32:26 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:32:26 2014] [debug] 200 OK (0.003980s, 251.256/s).
+[Wed Sep 17 19:32:26 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:32:26 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:32:26 2014] [debug] 200 OK (0.001059s, 944.287/s).
+[Wed Sep 17 19:32:28 2014] [debug] GET "/index".
+[Wed Sep 17 19:32:28 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:32:28 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:32:28 2014] [debug] 200 OK (0.000723s, 1383.126/s).
+[Wed Sep 17 19:32:28 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:32:28 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:32:28 2014] [debug] 200 OK (0.001393s, 717.875/s).
+[Wed Sep 17 19:33:08 2014] [debug] GET "/index".
+[Wed Sep 17 19:33:08 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:33:08 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:33:08 2014] [debug] 200 OK (0.000386s, 2590.674/s).
+[Wed Sep 17 19:33:08 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:33:08 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:33:08 2014] [debug] 200 OK (0.001036s, 965.251/s).
+[Wed Sep 17 19:33:55 2014] [debug] GET "/index".
+[Wed Sep 17 19:33:55 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:33:55 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:33:55 2014] [debug] 200 OK (0.004116s, 242.954/s).
+[Wed Sep 17 19:33:55 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:33:55 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:33:55 2014] [debug] 200 OK (0.001576s, 634.518/s).
+[Wed Sep 17 19:34:16 2014] [debug] GET "/index".
+[Wed Sep 17 19:34:16 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:34:16 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:34:16 2014] [debug] 200 OK (0.003379s, 295.946/s).
+[Wed Sep 17 19:34:21 2014] [debug] GET "/index".
+[Wed Sep 17 19:34:21 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:34:21 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:34:21 2014] [debug] 200 OK (0.000653s, 1531.394/s).
+[Wed Sep 17 19:34:22 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:34:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:34:22 2014] [debug] 200 OK (0.002467s, 405.351/s).
+[Wed Sep 17 19:34:24 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:34:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:34:24 2014] [debug] 200 OK (0.000927s, 1078.749/s).
+[Wed Sep 17 19:34:46 2014] [debug] GET "/index".
+[Wed Sep 17 19:34:46 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:34:46 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:34:46 2014] [debug] 200 OK (0.004140s, 241.546/s).
+[Wed Sep 17 19:34:47 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:34:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:34:47 2014] [debug] 200 OK (0.001176s, 850.340/s).
+[Wed Sep 17 19:34:48 2014] [debug] GET "/index".
+[Wed Sep 17 19:34:48 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:34:48 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:34:48 2014] [debug] 200 OK (0.000490s, 2040.816/s).
+[Wed Sep 17 19:34:48 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:34:48 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:34:48 2014] [debug] 200 OK (0.000807s, 1239.157/s).
+[Wed Sep 17 19:34:52 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:34:52 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:34:52 2014] [debug] 200 OK (0.001100s, 909.091/s).
+[Wed Sep 17 19:35:03 2014] [debug] GET "/index".
+[Wed Sep 17 19:35:03 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:35:03 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:35:03 2014] [debug] 200 OK (0.003765s, 265.604/s).
+[Wed Sep 17 19:35:03 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:35:03 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:35:03 2014] [debug] 200 OK (0.001188s, 841.751/s).
+[Wed Sep 17 19:35:04 2014] [debug] GET "/index".
+[Wed Sep 17 19:35:04 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:35:04 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:35:04 2014] [debug] 200 OK (0.000492s, 2032.520/s).
+[Wed Sep 17 19:35:04 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:35:04 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:35:04 2014] [debug] 200 OK (0.000833s, 1200.480/s).
+[Wed Sep 17 19:35:06 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:35:06 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:35:06 2014] [debug] 200 OK (0.000925s, 1081.081/s).
+[Wed Sep 17 19:35:28 2014] [debug] GET "/index".
+[Wed Sep 17 19:35:28 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:35:28 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:35:28 2014] [debug] 200 OK (0.004265s, 234.467/s).
+[Wed Sep 17 19:35:28 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:35:28 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:35:28 2014] [debug] 200 OK (0.001715s, 583.090/s).
+[Wed Sep 17 19:35:31 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:35:31 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:35:31 2014] [debug] 200 OK (0.000876s, 1141.553/s).
+[Wed Sep 17 19:36:46 2014] [debug] GET "/index".
+[Wed Sep 17 19:36:46 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:36:46 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:36:46 2014] [debug] 200 OK (0.003528s, 283.447/s).
+[Wed Sep 17 19:36:55 2014] [debug] GET "/index".
+[Wed Sep 17 19:36:55 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:36:55 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:36:55 2014] [debug] 200 OK (0.003529s, 283.366/s).
+[Wed Sep 17 19:36:55 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:36:55 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:36:55 2014] [debug] 200 OK (0.001171s, 853.971/s).
+[Wed Sep 17 19:36:58 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:36:58 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:36:58 2014] [debug] 200 OK (0.001015s, 985.222/s).
+[Wed Sep 17 19:37:28 2014] [debug] GET "/index".
+[Wed Sep 17 19:37:28 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:37:28 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:37:28 2014] [debug] 200 OK (0.004535s, 220.507/s).
+[Wed Sep 17 19:37:28 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:37:28 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:37:28 2014] [debug] 200 OK (0.001738s, 575.374/s).
+[Wed Sep 17 19:37:31 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:37:31 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:37:31 2014] [debug] 200 OK (0.000915s, 1092.896/s).
+[Wed Sep 17 19:39:32 2014] [debug] GET "/index".
+[Wed Sep 17 19:39:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:39:32 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:39:32 2014] [debug] 200 OK (0.004103s, 243.724/s).
+[Wed Sep 17 19:39:32 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:39:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:39:32 2014] [debug] 200 OK (0.001208s, 827.815/s).
+[Wed Sep 17 19:39:35 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:39:35 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:39:35 2014] [debug] 200 OK (0.000929s, 1076.426/s).
+[Wed Sep 17 19:39:47 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:39:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:39:47 2014] [debug] 200 OK (0.000721s, 1386.963/s).
+[Wed Sep 17 19:39:49 2014] [debug] GET "/index".
+[Wed Sep 17 19:39:49 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:39:49 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:39:49 2014] [debug] 200 OK (0.000473s, 2114.165/s).
+[Wed Sep 17 19:39:49 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:39:49 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:39:49 2014] [debug] 200 OK (0.001848s, 541.126/s).
+[Wed Sep 17 19:43:16 2014] [debug] GET "/index".
+[Wed Sep 17 19:43:16 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:43:16 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:43:16 2014] [debug] 200 OK (0.003573s, 279.877/s).
+[Wed Sep 17 19:43:17 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:43:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:43:17 2014] [debug] 200 OK (0.001308s, 764.526/s).
+[Wed Sep 17 19:43:19 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:43:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:43:19 2014] [debug] 200 OK (0.000862s, 1160.093/s).
+[Wed Sep 17 19:45:02 2014] [debug] GET "/index".
+[Wed Sep 17 19:45:02 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:45:02 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:45:02 2014] [debug] 200 OK (0.003309s, 302.206/s).
+[Wed Sep 17 19:45:24 2014] [debug] GET "/index".
+[Wed Sep 17 19:45:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:45:24 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:45:24 2014] [debug] 200 OK (0.003793s, 263.644/s).
+[Wed Sep 17 19:45:24 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:45:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:45:24 2014] [debug] 200 OK (0.001288s, 776.398/s).
+[Wed Sep 17 19:45:44 2014] [debug] GET "/index".
+[Wed Sep 17 19:45:44 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:45:44 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:45:44 2014] [debug] 200 OK (0.003967s, 252.080/s).
+[Wed Sep 17 19:45:44 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:45:44 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:45:44 2014] [debug] 200 OK (0.001384s, 722.543/s).
+[Wed Sep 17 19:45:47 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:45:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:45:47 2014] [debug] 200 OK (0.000922s, 1084.599/s).
+[Wed Sep 17 19:46:09 2014] [debug] GET "/index".
+[Wed Sep 17 19:46:09 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:46:09 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 19:46:09 2014] [debug] 200 OK (0.000469s, 2132.196/s).
+[Wed Sep 17 19:46:09 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:46:09 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:46:09 2014] [debug] 200 OK (0.001702s, 587.544/s).
+[Wed Sep 17 19:46:15 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:46:15 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:46:15 2014] [debug] 200 OK (0.000775s, 1290.323/s).
+[Wed Sep 17 19:47:22 2014] [debug] GET "/index".
+[Wed Sep 17 19:47:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:47:22 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:47:22 2014] [debug] 200 OK (0.003685s, 271.370/s).
+[Wed Sep 17 19:47:22 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:47:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:47:22 2014] [debug] 200 OK (0.001373s, 728.332/s).
+[Wed Sep 17 19:47:25 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:47:25 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:47:25 2014] [debug] 200 OK (0.000940s, 1063.830/s).
+[Wed Sep 17 19:47:32 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:47:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:47:32 2014] [debug] 200 OK (0.000814s, 1228.501/s).
+[Wed Sep 17 19:47:40 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:47:40 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:47:40 2014] [debug] 200 OK (0.000670s, 1492.537/s).
+[Wed Sep 17 19:48:02 2014] [debug] GET "/index".
+[Wed Sep 17 19:48:02 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:48:02 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:48:02 2014] [debug] 200 OK (0.003903s, 256.213/s).
+[Wed Sep 17 19:48:03 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:48:03 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:48:03 2014] [debug] 200 OK (0.001578s, 633.714/s).
+[Wed Sep 17 19:48:07 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:48:07 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:48:07 2014] [debug] 200 OK (0.000926s, 1079.914/s).
+[Wed Sep 17 19:48:43 2014] [debug] GET "/index".
+[Wed Sep 17 19:48:43 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:48:43 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:48:43 2014] [debug] 200 OK (0.005064s, 197.472/s).
+[Wed Sep 17 19:48:44 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:48:44 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:48:44 2014] [debug] 200 OK (0.002240s, 446.429/s).
+[Wed Sep 17 19:48:47 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:48:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:48:47 2014] [debug] 200 OK (0.000900s, 1111.111/s).
+[Wed Sep 17 19:50:53 2014] [debug] GET "/index".
+[Wed Sep 17 19:50:53 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:50:53 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:50:53 2014] [debug] 200 OK (0.004335s, 230.681/s).
+[Wed Sep 17 19:50:53 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:50:53 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:50:53 2014] [debug] 200 OK (0.001475s, 677.966/s).
+[Wed Sep 17 19:50:57 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:50:57 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:50:57 2014] [debug] 200 OK (0.000954s, 1048.218/s).
+[Wed Sep 17 19:51:10 2014] [debug] GET "/index".
+[Wed Sep 17 19:51:10 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:51:10 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:51:10 2014] [debug] 200 OK (0.003788s, 263.992/s).
+[Wed Sep 17 19:51:10 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:51:10 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:51:10 2014] [debug] 200 OK (0.001507s, 663.570/s).
+[Wed Sep 17 19:51:14 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:51:14 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:51:14 2014] [debug] 200 OK (0.001026s, 974.659/s).
+[Wed Sep 17 19:53:23 2014] [debug] GET "/index".
+[Wed Sep 17 19:53:23 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:53:23 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:53:23 2014] [debug] 200 OK (0.003487s, 286.779/s).
+[Wed Sep 17 19:53:42 2014] [debug] GET "/index".
+[Wed Sep 17 19:53:42 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:53:42 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:53:42 2014] [debug] 200 OK (0.003845s, 260.078/s).
+[Wed Sep 17 19:53:42 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:53:42 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:53:42 2014] [debug] 200 OK (0.001522s, 657.030/s).
+[Wed Sep 17 19:53:48 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:53:48 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:53:48 2014] [debug] 200 OK (0.001833s, 545.554/s).
+[Wed Sep 17 19:54:18 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:54:18 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:54:18 2014] [debug] 200 OK (0.000790s, 1265.823/s).
+[Wed Sep 17 19:54:42 2014] [debug] GET "/index".
+[Wed Sep 17 19:54:42 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:54:42 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:54:42 2014] [debug] 200 OK (0.003508s, 285.063/s).
+[Wed Sep 17 19:54:43 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:54:43 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:54:43 2014] [debug] 200 OK (0.001909s, 523.834/s).
+[Wed Sep 17 19:55:47 2014] [debug] GET "/index".
+[Wed Sep 17 19:55:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:55:47 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:55:47 2014] [debug] 200 OK (0.003876s, 257.998/s).
+[Wed Sep 17 19:55:47 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:55:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:55:47 2014] [debug] 200 OK (0.001594s, 627.353/s).
+[Wed Sep 17 19:55:52 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:55:52 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:55:52 2014] [debug] 200 OK (0.000946s, 1057.082/s).
+[Wed Sep 17 19:57:09 2014] [debug] GET "/index".
+[Wed Sep 17 19:57:09 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:57:09 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:57:09 2014] [debug] 200 OK (0.003581s, 279.252/s).
+[Wed Sep 17 19:57:09 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:57:09 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:57:09 2014] [debug] 200 OK (0.001690s, 591.716/s).
+[Wed Sep 17 19:57:13 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:57:13 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:57:13 2014] [debug] 200 OK (0.000909s, 1100.110/s).
+[Wed Sep 17 19:57:41 2014] [debug] GET "/index".
+[Wed Sep 17 19:57:41 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:57:41 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:57:41 2014] [debug] 200 OK (0.003518s, 284.252/s).
+[Wed Sep 17 19:57:42 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:57:42 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:57:42 2014] [debug] 200 OK (0.001598s, 625.782/s).
+[Wed Sep 17 19:57:47 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:57:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:57:47 2014] [debug] 200 OK (0.001446s, 691.563/s).
+[Wed Sep 17 19:59:03 2014] [debug] GET "/index".
+[Wed Sep 17 19:59:03 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:59:03 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:59:03 2014] [debug] 200 OK (0.003722s, 268.673/s).
+[Wed Sep 17 19:59:03 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:59:03 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:59:03 2014] [debug] 200 OK (0.002530s, 395.257/s).
+[Wed Sep 17 19:59:23 2014] [debug] GET "/index".
+[Wed Sep 17 19:59:23 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 19:59:23 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 19:59:23 2014] [debug] 200 OK (0.004035s, 247.831/s).
+[Wed Sep 17 19:59:24 2014] [debug] GET "/get_places".
+[Wed Sep 17 19:59:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 19:59:24 2014] [debug] 200 OK (0.002541s, 393.546/s).
+[Wed Sep 17 19:59:28 2014] [debug] POST "/add_place".
+[Wed Sep 17 19:59:28 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 19:59:28 2014] [debug] 200 OK (0.000942s, 1061.571/s).
+[Wed Sep 17 20:00:34 2014] [debug] GET "/index".
+[Wed Sep 17 20:00:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:00:34 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:00:34 2014] [debug] 200 OK (0.003896s, 256.674/s).
+[Wed Sep 17 20:00:34 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:00:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:00:34 2014] [debug] 200 OK (0.000769s, 1300.390/s).
+[Wed Sep 17 20:00:38 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:00:38 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:00:38 2014] [debug] 200 OK (0.000920s, 1086.957/s).
+[Wed Sep 17 20:00:39 2014] [debug] GET "/index".
+[Wed Sep 17 20:00:39 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:00:39 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:00:39 2014] [debug] 200 OK (0.000511s, 1956.947/s).
+[Wed Sep 17 20:00:39 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:00:39 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:00:39 2014] [debug] 200 OK (0.000795s, 1257.862/s).
+[Wed Sep 17 20:01:00 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:01:00 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:01:00 2014] [debug] 200 OK (0.000673s, 1485.884/s).
+[Wed Sep 17 20:01:01 2014] [debug] GET "/index".
+[Wed Sep 17 20:01:01 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:01:01 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:01:01 2014] [debug] 200 OK (0.000729s, 1371.742/s).
+[Wed Sep 17 20:01:02 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:01:02 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:01:02 2014] [debug] 200 OK (0.000783s, 1277.139/s).
+[Wed Sep 17 20:01:44 2014] [debug] GET "/index".
+[Wed Sep 17 20:01:44 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:01:44 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:01:44 2014] [debug] 200 OK (0.004360s, 229.358/s).
+[Wed Sep 17 20:01:44 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:01:44 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:01:44 2014] [debug] 200 OK (0.001453s, 688.231/s).
+[Wed Sep 17 20:01:45 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:01:45 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:01:45 2014] [debug] 200 OK (0.000926s, 1079.914/s).
+[Wed Sep 17 20:02:37 2014] [debug] GET "/index".
+[Wed Sep 17 20:02:37 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:02:37 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:02:37 2014] [debug] 200 OK (0.003789s, 263.922/s).
+[Wed Sep 17 20:02:39 2014] [debug] GET "/index".
+[Wed Sep 17 20:02:39 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:02:39 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:02:39 2014] [debug] 200 OK (0.000487s, 2053.388/s).
+[Wed Sep 17 20:03:09 2014] [debug] GET "/index".
+[Wed Sep 17 20:03:09 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:03:09 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:03:09 2014] [debug] 200 OK (0.003436s, 291.036/s).
+[Wed Sep 17 20:03:24 2014] [debug] GET "/index".
+[Wed Sep 17 20:03:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:03:24 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:03:24 2014] [debug] 200 OK (0.003838s, 260.552/s).
+[Wed Sep 17 20:03:25 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:03:25 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:03:25 2014] [debug] 200 OK (0.001517s, 659.196/s).
+[Wed Sep 17 20:04:50 2014] [debug] GET "/index".
+[Wed Sep 17 20:04:50 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:04:50 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:04:50 2014] [debug] 200 OK (0.003669s, 272.554/s).
+[Wed Sep 17 20:04:50 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:04:50 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:04:50 2014] [debug] 200 OK (0.001489s, 671.592/s).
+[Wed Sep 17 20:04:53 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:04:53 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:04:53 2014] [debug] 200 OK (0.000997s, 1003.009/s).
+[Wed Sep 17 20:08:31 2014] [debug] GET "/index".
+[Wed Sep 17 20:08:31 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:08:31 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:08:31 2014] [debug] 200 OK (0.003846s, 260.010/s).
+[Wed Sep 17 20:08:32 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:08:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:08:32 2014] [debug] 200 OK (0.001077s, 928.505/s).
+[Wed Sep 17 20:08:34 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:08:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:08:34 2014] [debug] 200 OK (0.000837s, 1194.743/s).
+[Wed Sep 17 20:08:54 2014] [debug] GET "/index".
+[Wed Sep 17 20:08:54 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:08:54 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:08:54 2014] [debug] 200 OK (0.000674s, 1483.680/s).
+[Wed Sep 17 20:08:54 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:08:54 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:08:54 2014] [debug] 200 OK (0.001037s, 964.320/s).
+[Wed Sep 17 20:08:57 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:08:57 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:08:57 2014] [debug] 200 OK (0.001406s, 711.238/s).
+[Wed Sep 17 20:09:25 2014] [debug] GET "/index".
+[Wed Sep 17 20:09:25 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:09:25 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:09:25 2014] [debug] 200 OK (0.004148s, 241.080/s).
+[Wed Sep 17 20:09:25 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:09:25 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:09:25 2014] [debug] 200 OK (0.001042s, 959.693/s).
+[Wed Sep 17 20:09:27 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:09:27 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:09:27 2014] [debug] 200 OK (0.000917s, 1090.513/s).
+[Wed Sep 17 20:10:15 2014] [debug] GET "/index".
+[Wed Sep 17 20:10:15 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:10:15 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:10:15 2014] [debug] 200 OK (0.000464s, 2155.172/s).
+[Wed Sep 17 20:10:15 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:10:15 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:10:15 2014] [debug] 200 OK (0.000861s, 1161.440/s).
+[Wed Sep 17 20:10:19 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:10:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:10:19 2014] [debug] 200 OK (0.000705s, 1418.440/s).
+[Wed Sep 17 20:10:38 2014] [debug] GET "/index".
+[Wed Sep 17 20:10:38 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:10:38 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:10:38 2014] [debug] 200 OK (0.003627s, 275.710/s).
+[Wed Sep 17 20:10:38 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:10:38 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:10:38 2014] [debug] 200 OK (0.001166s, 857.633/s).
+[Wed Sep 17 20:10:41 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:10:41 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:10:41 2014] [debug] 200 OK (0.000904s, 1106.195/s).
+[Wed Sep 17 20:10:46 2014] [debug] GET "/index".
+[Wed Sep 17 20:10:46 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:10:46 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:10:46 2014] [debug] 200 OK (0.000458s, 2183.406/s).
+[Wed Sep 17 20:10:46 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:10:46 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:10:46 2014] [debug] 200 OK (0.000851s, 1175.088/s).
+[Wed Sep 17 20:12:22 2014] [debug] GET "/index".
+[Wed Sep 17 20:12:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:12:22 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:12:22 2014] [debug] 200 OK (0.003357s, 297.885/s).
+[Wed Sep 17 20:12:22 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:12:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:12:22 2014] [debug] 200 OK (0.001317s, 759.301/s).
+[Wed Sep 17 20:12:25 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:12:25 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:12:25 2014] [debug] 200 OK (0.001006s, 994.036/s).
+[Wed Sep 17 20:14:01 2014] [debug] GET "/index".
+[Wed Sep 17 20:14:01 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:14:01 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:14:01 2014] [debug] 200 OK (0.003866s, 258.665/s).
+[Wed Sep 17 20:14:01 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:14:01 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:14:01 2014] [debug] 200 OK (0.001464s, 683.060/s).
+[Wed Sep 17 20:14:39 2014] [debug] GET "/index".
+[Wed Sep 17 20:14:39 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:14:39 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:14:39 2014] [debug] 200 OK (0.003922s, 254.972/s).
+[Wed Sep 17 20:14:39 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:14:39 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:14:39 2014] [debug] 200 OK (0.001247s, 801.925/s).
+[Wed Sep 17 20:14:42 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:14:42 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:14:42 2014] [debug] 200 OK (0.000927s, 1078.749/s).
+[Wed Sep 17 20:15:37 2014] [debug] GET "/index".
+[Wed Sep 17 20:15:37 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:15:37 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:15:37 2014] [debug] 200 OK (0.005831s, 171.497/s).
+[Wed Sep 17 20:15:38 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:15:38 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:15:38 2014] [debug] 200 OK (0.001185s, 843.882/s).
+[Wed Sep 17 20:15:41 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:15:41 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:15:41 2014] [debug] 200 OK (0.000996s, 1004.016/s).
+[Wed Sep 17 20:16:05 2014] [debug] GET "/index".
+[Wed Sep 17 20:16:05 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:16:05 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:16:05 2014] [debug] 200 OK (0.000516s, 1937.984/s).
+[Wed Sep 17 20:16:06 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:16:06 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:16:06 2014] [debug] 200 OK (0.002566s, 389.712/s).
+[Wed Sep 17 20:16:09 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:16:09 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:16:09 2014] [debug] 200 OK (0.001227s, 814.996/s).
+[Wed Sep 17 20:17:03 2014] [debug] GET "/index".
+[Wed Sep 17 20:17:03 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:17:03 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:17:03 2014] [debug] 200 OK (0.004154s, 240.732/s).
+[Wed Sep 17 20:17:30 2014] [debug] GET "/index".
+[Wed Sep 17 20:17:30 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:17:30 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:17:30 2014] [debug] 200 OK (0.003498s, 285.878/s).
+[Wed Sep 17 20:17:30 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:17:30 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:17:30 2014] [debug] 200 OK (0.001542s, 648.508/s).
+[Wed Sep 17 20:18:11 2014] [debug] GET "/index".
+[Wed Sep 17 20:18:11 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:18:11 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:18:11 2014] [debug] 200 OK (0.003743s, 267.165/s).
+[Wed Sep 17 20:18:11 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:18:11 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:18:11 2014] [debug] 200 OK (0.001388s, 720.461/s).
+[Wed Sep 17 20:18:17 2014] [debug] GET "/index".
+[Wed Sep 17 20:18:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:18:17 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:18:17 2014] [debug] 200 OK (0.005424s, 184.366/s).
+[Wed Sep 17 20:18:17 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:18:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:18:17 2014] [debug] 200 OK (0.001616s, 618.812/s).
+[Wed Sep 17 20:18:21 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:18:21 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:18:21 2014] [debug] 200 OK (0.001069s, 935.454/s).
+[Wed Sep 17 20:18:26 2014] [debug] GET "/index".
+[Wed Sep 17 20:18:26 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:18:26 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:18:26 2014] [debug] 200 OK (0.000597s, 1675.042/s).
+[Wed Sep 17 20:18:26 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:18:26 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:18:26 2014] [debug] 200 OK (0.001320s, 757.576/s).
+[Wed Sep 17 20:19:41 2014] [debug] GET "/index".
+[Wed Sep 17 20:19:41 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:19:41 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:19:41 2014] [debug] 200 OK (0.003269s, 305.904/s).
+[Wed Sep 17 20:19:41 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:19:41 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:19:41 2014] [debug] 200 OK (0.001201s, 832.639/s).
+[Wed Sep 17 20:19:45 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:19:45 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:19:45 2014] [debug] 200 OK (0.000988s, 1012.146/s).
+[Wed Sep 17 20:20:56 2014] [debug] GET "/index".
+[Wed Sep 17 20:20:56 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:20:56 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:20:56 2014] [debug] 200 OK (0.003233s, 309.310/s).
+[Wed Sep 17 20:20:56 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:20:56 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:20:56 2014] [debug] 200 OK (0.001447s, 691.085/s).
+[Wed Sep 17 20:20:59 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:20:59 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:20:59 2014] [debug] 200 OK (0.000921s, 1085.776/s).
+[Wed Sep 17 20:21:12 2014] [debug] GET "/index".
+[Wed Sep 17 20:21:12 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:21:12 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:21:12 2014] [debug] 200 OK (0.004968s, 201.288/s).
+[Wed Sep 17 20:21:12 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:21:12 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:21:12 2014] [debug] 200 OK (0.001368s, 730.994/s).
+[Wed Sep 17 20:21:15 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:21:15 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:21:15 2014] [debug] 200 OK (0.001635s, 611.621/s).
+[Wed Sep 17 20:22:43 2014] [debug] GET "/index".
+[Wed Sep 17 20:22:43 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:22:43 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:22:43 2014] [debug] 200 OK (0.003217s, 310.849/s).
+[Wed Sep 17 20:22:44 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:22:44 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:22:44 2014] [debug] 200 OK (0.001417s, 705.716/s).
+[Wed Sep 17 20:22:48 2014] [debug] GET "/index".
+[Wed Sep 17 20:22:48 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:22:48 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:22:48 2014] [debug] 200 OK (0.000460s, 2173.913/s).
+[Wed Sep 17 20:22:48 2014] [debug] GET "/index".
+[Wed Sep 17 20:22:48 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:22:48 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:22:48 2014] [debug] 200 OK (0.000655s, 1526.718/s).
+[Wed Sep 17 20:22:48 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:22:48 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:22:48 2014] [debug] 200 OK (0.001217s, 821.693/s).
+[Wed Sep 17 20:22:52 2014] [debug] GET "/index".
+[Wed Sep 17 20:22:52 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:22:52 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:22:52 2014] [debug] 200 OK (0.000409s, 2444.988/s).
+[Wed Sep 17 20:22:53 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:22:53 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:22:53 2014] [debug] 200 OK (0.001138s, 878.735/s).
+[Wed Sep 17 20:23:00 2014] [debug] GET "/index".
+[Wed Sep 17 20:23:00 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:23:00 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:23:00 2014] [debug] 200 OK (0.000484s, 2066.116/s).
+[Wed Sep 17 20:23:00 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:23:00 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:23:00 2014] [debug] 200 OK (0.001215s, 823.045/s).
+[Wed Sep 17 20:23:04 2014] [debug] GET "/index".
+[Wed Sep 17 20:23:04 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:23:04 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:23:04 2014] [debug] 200 OK (0.000825s, 1212.121/s).
+[Wed Sep 17 20:23:04 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:23:04 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:23:04 2014] [debug] 200 OK (0.001084s, 922.509/s).
+[Wed Sep 17 20:23:33 2014] [debug] GET "/index".
+[Wed Sep 17 20:23:33 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:23:33 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:23:33 2014] [debug] 200 OK (0.017150s, 58.309/s).
+[Wed Sep 17 20:23:34 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:23:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:23:34 2014] [debug] 200 OK (0.001284s, 778.816/s).
+[Wed Sep 17 20:23:36 2014] [debug] GET "/index".
+[Wed Sep 17 20:23:36 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:23:36 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:23:36 2014] [debug] 200 OK (0.004159s, 240.442/s).
+[Wed Sep 17 20:23:36 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:23:36 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:23:36 2014] [debug] 200 OK (0.001663s, 601.323/s).
+[Wed Sep 17 20:24:05 2014] [debug] GET "/index".
+[Wed Sep 17 20:24:05 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:24:05 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:24:05 2014] [debug] 200 OK (0.005550s, 180.180/s).
+[Wed Sep 17 20:24:16 2014] [debug] GET "/index".
+[Wed Sep 17 20:24:16 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:24:16 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:24:16 2014] [debug] 200 OK (0.004676s, 213.858/s).
+[Wed Sep 17 20:24:19 2014] [debug] GET "/index".
+[Wed Sep 17 20:24:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:24:19 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:24:19 2014] [debug] 200 OK (0.003761s, 265.887/s).
+[Wed Sep 17 20:24:19 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:24:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:24:19 2014] [debug] 200 OK (0.001492s, 670.241/s).
+[Wed Sep 17 20:24:24 2014] [debug] GET "/index".
+[Wed Sep 17 20:24:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:24:24 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:24:24 2014] [debug] 200 OK (0.000397s, 2518.892/s).
+[Wed Sep 17 20:24:24 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:24:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:24:24 2014] [debug] 200 OK (0.001166s, 857.633/s).
+[Wed Sep 17 20:24:31 2014] [debug] GET "/index".
+[Wed Sep 17 20:24:31 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:24:31 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:24:31 2014] [debug] 200 OK (0.000525s, 1904.762/s).
+[Wed Sep 17 20:24:32 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:24:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:24:32 2014] [debug] 200 OK (0.001298s, 770.416/s).
+[Wed Sep 17 20:25:32 2014] [debug] GET "/index".
+[Wed Sep 17 20:25:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:25:32 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:25:32 2014] [debug] 200 OK (0.003298s, 303.214/s).
+[Wed Sep 17 20:25:32 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:25:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:25:32 2014] [debug] 200 OK (0.001274s, 784.929/s).
+[Wed Sep 17 20:25:35 2014] [debug] GET "/index".
+[Wed Sep 17 20:25:35 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:25:35 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:25:35 2014] [debug] 200 OK (0.000589s, 1697.793/s).
+[Wed Sep 17 20:25:35 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:25:35 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:25:35 2014] [debug] 200 OK (0.001219s, 820.345/s).
+[Wed Sep 17 20:25:54 2014] [debug] GET "/index".
+[Wed Sep 17 20:25:54 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:25:54 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:25:54 2014] [debug] 200 OK (0.003578s, 279.486/s).
+[Wed Sep 17 20:25:55 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:25:55 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:25:55 2014] [debug] 200 OK (0.001372s, 728.863/s).
+[Wed Sep 17 20:26:00 2014] [debug] GET "/index".
+[Wed Sep 17 20:26:00 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:26:00 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:26:00 2014] [debug] 200 OK (0.000468s, 2136.752/s).
+[Wed Sep 17 20:26:00 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:26:00 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:26:00 2014] [debug] 200 OK (0.001602s, 624.220/s).
+[Wed Sep 17 20:26:09 2014] [info] Listening at "http://*:4000".
+[Wed Sep 17 20:26:19 2014] [debug] GET "/index".
+[Wed Sep 17 20:26:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:26:19 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:26:19 2014] [debug] 200 OK (0.003947s, 253.357/s).
+[Wed Sep 17 20:26:19 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:26:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:26:19 2014] [debug] 200 OK (0.000807s, 1239.157/s).
+[Wed Sep 17 20:26:22 2014] [debug] GET "/index".
+[Wed Sep 17 20:26:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:26:22 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:26:22 2014] [debug] 200 OK (0.000634s, 1577.287/s).
+[Wed Sep 17 20:26:22 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:26:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:26:22 2014] [debug] 200 OK (0.000744s, 1344.086/s).
+[Wed Sep 17 20:26:24 2014] [debug] GET "/index".
+[Wed Sep 17 20:26:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:26:24 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:26:24 2014] [debug] 200 OK (0.001118s, 894.454/s).
+[Wed Sep 17 20:26:24 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:26:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:26:24 2014] [debug] 200 OK (0.000646s, 1547.988/s).
+[Wed Sep 17 20:26:43 2014] [debug] GET "/index".
+[Wed Sep 17 20:26:43 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:26:43 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:26:43 2014] [debug] 200 OK (0.003952s, 253.036/s).
+[Wed Sep 17 20:26:44 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:26:44 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:26:44 2014] [debug] 200 OK (0.001226s, 815.661/s).
+[Wed Sep 17 20:26:46 2014] [debug] GET "/index".
+[Wed Sep 17 20:26:46 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:26:46 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:26:46 2014] [debug] 200 OK (0.003605s, 277.393/s).
+[Wed Sep 17 20:26:46 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:26:46 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:26:46 2014] [debug] 200 OK (0.000817s, 1223.990/s).
+[Wed Sep 17 20:26:48 2014] [debug] GET "/index".
+[Wed Sep 17 20:26:48 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:26:48 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:26:48 2014] [debug] 200 OK (0.000674s, 1483.680/s).
+[Wed Sep 17 20:26:48 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:26:48 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:26:48 2014] [debug] 200 OK (0.000630s, 1587.302/s).
+[Wed Sep 17 20:27:11 2014] [debug] GET "/index".
+[Wed Sep 17 20:27:11 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:27:11 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:27:11 2014] [debug] 200 OK (0.003309s, 302.206/s).
+[Wed Sep 17 20:27:11 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:27:11 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:27:11 2014] [debug] 200 OK (0.000925s, 1081.081/s).
+[Wed Sep 17 20:27:15 2014] [debug] GET "/index".
+[Wed Sep 17 20:27:15 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:27:15 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:27:15 2014] [debug] 200 OK (0.000561s, 1782.531/s).
+[Wed Sep 17 20:27:15 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:27:15 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:27:15 2014] [debug] 200 OK (0.024595s, 40.659/s).
+[Wed Sep 17 20:27:51 2014] [info] Listening at "http://*:4000".
+[Wed Sep 17 20:28:29 2014] [info] Listening at "http://*:4000".
+[Wed Sep 17 20:28:34 2014] [debug] GET "/index".
+[Wed Sep 17 20:28:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:28:34 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:28:34 2014] [debug] 200 OK (0.016420s, 60.901/s).
+[Wed Sep 17 20:28:35 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:28:35 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:28:35 2014] [debug] 200 OK (0.000780s, 1282.051/s).
+[Wed Sep 17 20:29:10 2014] [debug] GET "/index".
+[Wed Sep 17 20:29:10 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:29:10 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:29:10 2014] [debug] 200 OK (0.004735s, 211.193/s).
+[Wed Sep 17 20:29:10 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:29:10 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:29:10 2014] [debug] 200 OK (0.000805s, 1242.236/s).
+[Wed Sep 17 20:29:14 2014] [debug] GET "/index".
+[Wed Sep 17 20:29:14 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:29:14 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:29:14 2014] [debug] 200 OK (0.000592s, 1689.189/s).
+[Wed Sep 17 20:29:14 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:29:14 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:29:14 2014] [debug] 200 OK (0.000765s, 1307.190/s).
+[Wed Sep 17 20:29:16 2014] [debug] GET "/index".
+[Wed Sep 17 20:29:16 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:29:16 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:29:16 2014] [debug] 200 OK (0.000574s, 1742.160/s).
+[Wed Sep 17 20:29:17 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:29:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:29:17 2014] [debug] 200 OK (0.000594s, 1683.502/s).
+[Wed Sep 17 20:30:07 2014] [debug] GET "/index".
+[Wed Sep 17 20:30:07 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:30:07 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:30:07 2014] [debug] 200 OK (0.003517s, 284.333/s).
+[Wed Sep 17 20:30:07 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:30:07 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:30:07 2014] [debug] 200 OK (0.000835s, 1197.605/s).
+[Wed Sep 17 20:30:09 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:30:09 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:30:09 2014] [debug] 200 OK (0.001049s, 953.289/s).
+[Wed Sep 17 20:30:16 2014] [debug] GET "/index".
+[Wed Sep 17 20:30:16 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:30:16 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:30:16 2014] [debug] 200 OK (0.000763s, 1310.616/s).
+[Wed Sep 17 20:30:17 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:30:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:30:17 2014] [debug] 200 OK (0.000838s, 1193.317/s).
+[Wed Sep 17 20:30:22 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:30:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:30:22 2014] [debug] 200 OK (0.000791s, 1264.223/s).
+[Wed Sep 17 20:30:23 2014] [debug] GET "/index".
+[Wed Sep 17 20:30:23 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:30:23 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:30:23 2014] [debug] 200 OK (0.000607s, 1647.446/s).
+[Wed Sep 17 20:30:23 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:30:23 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:30:23 2014] [debug] 200 OK (0.000725s, 1379.310/s).
+[Wed Sep 17 20:30:34 2014] [debug] GET "/index".
+[Wed Sep 17 20:30:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:30:34 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:30:34 2014] [debug] 200 OK (0.003588s, 278.707/s).
+[Wed Sep 17 20:30:35 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:30:35 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:30:35 2014] [debug] 200 OK (0.001281s, 780.640/s).
+[Wed Sep 17 20:30:37 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:30:37 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:30:37 2014] [debug] 200 OK (0.000921s, 1085.776/s).
+[Wed Sep 17 20:30:38 2014] [debug] GET "/index".
+[Wed Sep 17 20:30:38 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:30:38 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:30:38 2014] [debug] 200 OK (0.000580s, 1724.138/s).
+[Wed Sep 17 20:30:38 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:30:38 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:30:38 2014] [debug] 200 OK (0.000728s, 1373.626/s).
+[Wed Sep 17 20:30:57 2014] [debug] GET "/index".
+[Wed Sep 17 20:30:57 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:30:57 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:30:57 2014] [debug] 200 OK (0.003678s, 271.887/s).
+[Wed Sep 17 20:30:58 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:30:58 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:30:58 2014] [debug] 200 OK (0.001003s, 997.009/s).
+[Wed Sep 17 20:31:00 2014] [debug] GET "/index".
+[Wed Sep 17 20:31:00 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:31:00 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:31:00 2014] [debug] 200 OK (0.000688s, 1453.488/s).
+[Wed Sep 17 20:31:00 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:31:00 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:31:00 2014] [debug] 200 OK (0.000859s, 1164.144/s).
+[Wed Sep 17 20:31:02 2014] [debug] GET "/index".
+[Wed Sep 17 20:31:02 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:31:02 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:31:02 2014] [debug] 200 OK (0.000476s, 2100.840/s).
+[Wed Sep 17 20:31:02 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:31:02 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:31:03 2014] [debug] 200 OK (0.015563s, 64.255/s).
+[Wed Sep 17 20:31:05 2014] [debug] GET "/index".
+[Wed Sep 17 20:31:05 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:31:05 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:31:05 2014] [debug] 200 OK (0.000712s, 1404.494/s).
+[Wed Sep 17 20:31:06 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:31:06 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:31:06 2014] [debug] 200 OK (0.000687s, 1455.604/s).
+[Wed Sep 17 20:31:23 2014] [debug] GET "/index".
+[Wed Sep 17 20:31:23 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:31:23 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:31:23 2014] [debug] 200 OK (0.000595s, 1680.672/s).
+[Wed Sep 17 20:31:23 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:31:23 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:31:23 2014] [debug] 200 OK (0.000802s, 1246.883/s).
+[Wed Sep 17 20:31:24 2014] [debug] GET "/index".
+[Wed Sep 17 20:31:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:31:24 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:31:24 2014] [debug] 200 OK (0.004083s, 244.918/s).
+[Wed Sep 17 20:31:25 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:31:25 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:31:25 2014] [debug] 200 OK (0.001073s, 931.966/s).
+[Wed Sep 17 20:31:31 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:31:31 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:31:31 2014] [debug] 200 OK (0.000976s, 1024.590/s).
+[Wed Sep 17 20:31:32 2014] [debug] GET "/index".
+[Wed Sep 17 20:31:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:31:32 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:31:32 2014] [debug] 200 OK (0.000653s, 1531.394/s).
+[Wed Sep 17 20:31:32 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:31:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:31:32 2014] [debug] 200 OK (0.000857s, 1166.861/s).
+[Wed Sep 17 20:43:39 2014] [debug] GET "/index".
+[Wed Sep 17 20:43:39 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:43:39 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:43:39 2014] [debug] 200 OK (0.000539s, 1855.288/s).
+[Wed Sep 17 20:43:39 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:43:39 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:43:39 2014] [debug] 200 OK (0.066741s, 14.983/s).
+[Wed Sep 17 20:43:41 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:43:41 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:43:41 2014] [debug] 200 OK (0.013503s, 74.058/s).
+[Wed Sep 17 20:43:45 2014] [debug] GET "/index".
+[Wed Sep 17 20:43:45 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:43:45 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:43:45 2014] [debug] 200 OK (0.000565s, 1769.912/s).
+[Wed Sep 17 20:43:45 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:43:45 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:43:45 2014] [debug] 200 OK (0.000835s, 1197.605/s).
+[Wed Sep 17 20:43:50 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:43:50 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:43:50 2014] [debug] 200 OK (0.000926s, 1079.914/s).
+[Wed Sep 17 20:43:57 2014] [debug] GET "/index".
+[Wed Sep 17 20:43:57 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:43:57 2014] [debug] Rendering cached template "index.html.ep".
+[Wed Sep 17 20:43:57 2014] [debug] 200 OK (0.000365s, 2739.726/s).
+[Wed Sep 17 20:43:58 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:43:58 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:43:58 2014] [debug] 200 OK (0.000809s, 1236.094/s).
+[Wed Sep 17 20:54:59 2014] [debug] GET "/index".
+[Wed Sep 17 20:54:59 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Wed Sep 17 20:54:59 2014] [debug] Rendering template "index.html.ep".
+[Wed Sep 17 20:54:59 2014] [debug] 200 OK (0.027522s, 36.335/s).
+[Wed Sep 17 20:54:59 2014] [debug] GET "/get_places".
+[Wed Sep 17 20:54:59 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Wed Sep 17 20:54:59 2014] [debug] 200 OK (0.001616s, 618.812/s).
+[Wed Sep 17 20:55:02 2014] [debug] POST "/add_place".
+[Wed Sep 17 20:55:02 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Wed Sep 17 20:55:02 2014] [debug] 200 OK (0.000979s, 1021.450/s).

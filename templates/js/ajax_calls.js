@@ -19,3 +19,14 @@ $(document).ready(function(){
   	})
   })
 });
+
+function ajax_add_place(data){
+  var url = 'add_place';
+  $.ajax({
+      url: url,
+      data: data,
+      type: 'POST',
+    }).done(function(data) {
+      console.log("Data sent");
+  })
+}

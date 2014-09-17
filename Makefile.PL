@@ -14,6 +14,7 @@ WriteMakefile(
   					'Search::Elasticsearch' => '1.14',
   					'Data::Printer' => '0.35',
   					'MongoDB' => 'v0.705.0.0',
+  					'Log::Log4perl' => '1.44',
   					},
   test         => {TESTS => 't/*.t'}
 );

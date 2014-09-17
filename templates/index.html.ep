@@ -6,12 +6,16 @@
   <link rel="stylesheet" href="bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css">
   <script type="text/javascript", src="angular/angular.js"></script>
   <script type="text/javascript", src="jQuery/jquery-2.1.1.js"></script>
-  <script type="text/javascript", src="controller/places.js"></script>
   <script type="text/javascript", src="ajax_calls.js"></script>
+  <script type="text/javascript", src="geo_location.js"></script>
+  <script type="text/javascript", src="controller/places.js"></script>
   <script type="text/javascript", src="platform/platform.js"></script>
+
   <link href="paper-input/paper-input.html" rel="import">
   <link href="paper-button/paper-button.html" rel="import">
+
   <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+
   <link rel="import" href="core-scaffold/core-scaffold.html">
   <link rel="import" href="core-header-panel/core-header-panel.html">
   <link rel="import" href="core-menu/core-menu.html">
@@ -105,13 +109,19 @@
       </core-item>
     </li>
   </ul>
+  <form ng-submit="getPosition()">
+    <input type="text" ng-model="placeName" size="30"
+       placeholder="add new place here">
+    <input class="btn-primary" type="submit" value="add">
+  </form>
 
-  <!-- <button>Get External Content</button> -->
-  <form id='form' action='add_place'>
+<!--   <form id='form' action='add_place'>
     <textarea label="Name" name='name'></textarea>
     <textarea label="Geo point" name='geo_location'></textarea>
     <input type='submit' id='submitter'>
-  </form>
+  </form> -->
+
+
 
 </div>
 

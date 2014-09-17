@@ -17,10 +17,14 @@ sub add_place {
 
 	# Add to Mongo
 	my $collection = $self->app->places;
+	say $self->req()->params();
 	$collection->insert(
 		{
 			name=> $self->req()->param('name'), 
-			geo_location => $self->req()->param('geo_location'),
+			geo_location => {
+				lat => $self->req()->param('geo_location[lat]'),
+				lon => $self->req()->param('geo_location[lon]')
+			},
 		}
 	);
 
@@ -29,7 +33,7 @@ sub add_place {
 	# 	geo_location => $self->req()->param('geo_location')
 	# 	});
 
-	# Add to ElasticSearch
+	# # Add to ElasticSearch
 	# my $e = $self->app->search_engine();
 	# $e->index(
 	#     index   => 'mapchallenge',

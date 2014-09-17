@@ -40,9 +40,10 @@ my $c = container 'MapChallange' => ['Env'] => as {
 		class => 'MapChallange',
 		lifecycle => 'Singleton',
 		dependencies => {
-			database => '/MongoDatabase/dbh',
-			places   => '/Collections/places',
+			database      => '/MongoDatabase/dbh',
+			places        => '/Collections/places',
 			search_engine => '/Search/search_engine',
+			logger   	  => 'Logger/logger',
 		}
 	);
 
@@ -96,6 +97,22 @@ my $c = container 'MapChallange' => ['Env'] => as {
 			},
 		);
 	};
+
+	container 'Logger' => as {
+		service 'config_file' => 'log4perl.conf';
+		service 'logger' => (
+			class => 'Log::Log4perl',
+			lifecycle => 'Singleton',
+			block => sub {
+				my $s = shift;
+				require Log::Log4perl;
+				Log::Log4perl::init($s->param('config_file'));
+				my $logger = Log::Log4perl->get_logger('mapChallenge');
+				$logger;
+			},
+			dependencies => ['config_file'],
+		);
+	}
 };
 
 my $env = do {
