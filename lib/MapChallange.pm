@@ -20,6 +20,7 @@ sub startup {
 
 	# Add static paths to javascript and css files
 	push @{$self->static->paths}, "$Bin/templates/js";
+	push @{$self->static->paths}, "$Bin/templates/static_html";
 	push @{$self->static->paths}, "$Bin/templates/bower_components";
 
 };

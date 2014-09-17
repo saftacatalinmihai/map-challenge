@@ -5,25 +5,117 @@
   <title>My HTML File</title>
   <link rel="stylesheet" href="bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css">
   <script type="text/javascript", src="angular/angular.js"></script>
-  <script type="text/javascript", src="angular/angular-resource.js"></script>
   <script type="text/javascript", src="jQuery/jquery-2.1.1.js"></script>
   <script type="text/javascript", src="controller/places.js"></script>
-  <script type="text/javascript", src="controller/test.js"></script>
+  <script type="text/javascript", src="ajax_calls.js"></script>
+  <script type="text/javascript", src="platform/platform.js"></script>
+  <link href="paper-input/paper-input.html" rel="import">
+  <link href="paper-button/paper-button.html" rel="import">
+  <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+  <link rel="import" href="core-scaffold/core-scaffold.html">
+  <link rel="import" href="core-header-panel/core-header-panel.html">
+  <link rel="import" href="core-menu/core-menu.html">
+  <link rel="import" href="core-item/core-item.html">
+  <link rel="import" href="core-elements/core-elements.html">
+  <style>
+
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+
+    body {
+      font-family: sans-serif;
+    }
+    
+    core-scaffold {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    }
+    
+    .content {
+      background-color: #fff;
+      height: 5000px;
+      padding: 20px;
+    }
+    
+    /* some default styles for mode="cover" on core-scaffold */
+    core-scaffold[mode=cover]::shadow core-header-panel::shadow #mainContainer {
+      left: 120px;
+    }
+    
+    core-scaffold[mode=cover] .content {
+      margin: 20px 100px 20px 0;
+    }
+
+    core-item {
+      width: 300px;
+    }
+
+    core-item.big {
+      font-size: 24px;
+    }
+
+    core-item.small {
+      font-size: 12px;
+    }
+    
+    core-item.map-pin-item {
+      height: 50px;
+      background-color: #efefef;
+      border: 1px solid #ddd;
+    }
+
+    core-item.map-pin-item .name {
+      font-size: 1.125em;
+    }
+
+    core-item.map-pin-item .location {
+      font-size: 0.75em;
+    }
+    
+  </style>
 </head>
 <body ng-controller="PlacesList">
-<h3>TEST</h3>
+
+  <core-scaffold>
+  
+  <core-header-panel navigation flex mode="seamed">
+  <core-toolbar style="background-color: #526E9C; color: #fff;">MapChallenge</core-toolbar>
+  <core-menu>
+  <core-item icon="settings" label="Add Place"></core-item>
+  <core-item icon="settings" label="View Places"></core-item>
+</core-menu>
+</core-header-panel>
+
+<div tool>Map</div>
+
+<div class="content">
   <ul>
-  	<li ng-repeat='place in places'>
-  		{{place.name}}
-  		<p>{{place.geo_location}}</p>
-  	</li>
+    <li ng-repeat='place in places'>
+      <core-item icon="file-map" class="map-pin-item">
+        <div flex>
+          <div class="name">{{place.name}}</div>
+          <div class="location">{{place.geo_location}}</div>
+        </div>
+        <core-icon icon="more-vert"></core-icon>
+      </core-item>
+    </li>
   </ul>
 
   <!-- <button>Get External Content</button> -->
   <form id='form' action='add_place'>
-  	<textarea name='name'></textarea>
-  	<textarea name='geo_location'></textarea>
-  	<input type='submit' id='submitter'>
+    <textarea label="Name" name='name'></textarea>
+    <textarea label="Geo point" name='geo_location'></textarea>
+    <input type='submit' id='submitter'>
   </form>
+
+</div>
+
+</core-scaffold>
+
 </body>
 </html>
