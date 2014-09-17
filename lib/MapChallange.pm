@@ -9,7 +9,7 @@ use FindBin qw($Bin);
 has 'database' => ( is => 'ro' );
 has 'places' => (is => 'ro');
 has 'search_engine' => ( is => 'ro' );
-has 'logger' => (is => 'ro');
+# has 'logger' => (is => 'ro');
 
 # Routes
 sub startup {

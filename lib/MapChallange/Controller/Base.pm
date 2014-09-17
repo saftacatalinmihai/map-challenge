@@ -17,16 +17,7 @@ sub add_place {
 
 	# Add to Mongo
 	my $collection = $self->app->places;
-	say $self->req()->params();
-	$collection->insert(
-		{
-			name=> $self->req()->param('name'), 
-			geo_location => {
-				lat => $self->req()->param('geo_location[lat]'),
-				lon => $self->req()->param('geo_location[lon]')
-			},
-		}
-	);
+	$collection->insert($self->req->json);
 
 	# my $inserted = $collection->find_one({
 	# 	name => $self->req()->param('name'),

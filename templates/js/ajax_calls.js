@@ -20,13 +20,14 @@ $(document).ready(function(){
   })
 });
 
-function ajax_add_place(data){
+function ajax_add_place(data, callback){
   var url = 'add_place';
   $.ajax({
       url: url,
       data: data,
       type: 'POST',
     }).done(function(data) {
-      console.log("Data sent");
+      console.log("Data sent, running callback");
+      callback();
   })
 }

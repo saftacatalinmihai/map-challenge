@@ -114,6 +114,9 @@
        placeholder="add new place here">
     <input class="btn-primary" type="submit" value="add">
   </form>
+  <form ng-submit="updatePlaces()">
+    <input class="btn-primary", type="submit", value="update">
+  </form>
 
 <!--   <form id='form' action='add_place'>
     <textarea label="Name" name='name'></textarea>

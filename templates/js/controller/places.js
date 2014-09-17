@@ -1,4 +1,5 @@
 var mapChallange = angular.module('mapChallange', []);
+var location_data; 
 
 mapChallange.controller('PlacesList', function($scope, $http) {
 	$http({
@@ -10,17 +11,35 @@ mapChallange.controller('PlacesList', function($scope, $http) {
 		alert(data);
 	})
 
-	console.log("0");
+	$scope.updatePlaces = function(){
+		$http({
+			method: 'GET',
+			url: 'get_places',
+		}).success(function(data, status){
+			$scope.places = data.places;
+		}).error(function(data, status){
+			alert(data);
+		})
+	}
 
 	$scope.getPosition = function(){
-		console.log("1");
 
 		getLocation(function(position){
-			console.log("2");
+
 			location_data = {name: $scope.placeName, geo_location: {lat: position.coords.latitude, lon: position.coords.longitude}};
-			console.log("3");
-			ajax_add_place(location_data);
-			console.log("4");
+
+			$http({
+				method: 'POST',
+				url: 'add_place',
+				data: location_data,
+				headers: {'Content-Type': 'application/x-www-form-urlencoded'},
+			}).success(function(data, status){
+				console.log("5");
+				$scope.places.push(location_data);
+				$scope.placeName = "";
+			}).error(function(data, status){
+				alert(data);
+			})
 			}
 		);
 	};

@@ -43,7 +43,7 @@ my $c = container 'MapChallange' => ['Env'] => as {
 			database      => '/MongoDatabase/dbh',
 			places        => '/Collections/places',
 			search_engine => '/Search/search_engine',
-			logger   	  => 'Logger/logger',
+			# logger   	  => 'Logger/logger',
 		}
 	);
 
