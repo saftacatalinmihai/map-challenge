@@ -3978,3 +3978,326 @@
 [Thu Sep 18 16:26:22 2014] [debug] GET "/get_places".
 [Thu Sep 18 16:26:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
 [Thu Sep 18 16:26:22 2014] [debug] 200 OK (0.000947s, 1055.966/s).
+[Thu Sep 18 18:40:50 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 18:40:59 2014] [debug] GET "/".
+[Thu Sep 18 18:40:59 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 18:40:59 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 18:40:59 2014] [debug] 200 OK (0.003801s, 263.089/s).
+[Thu Sep 18 18:40:59 2014] [debug] GET "/get_places".
+[Thu Sep 18 18:40:59 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 18:40:59 2014] [debug] 200 OK (0.001075s, 930.233/s).
+[Thu Sep 18 18:41:10 2014] [debug] POST "/add_place".
+[Thu Sep 18 18:41:10 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 18:41:10 2014] [debug] 200 OK (0.001364s, 733.138/s).
+[Thu Sep 18 18:46:42 2014] [debug] GET "/".
+[Thu Sep 18 18:46:42 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 18:46:42 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 18:46:42 2014] [debug] 200 OK (0.003694s, 270.709/s).
+[Thu Sep 18 18:46:42 2014] [debug] GET "/get_places".
+[Thu Sep 18 18:46:42 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 18:46:42 2014] [debug] 200 OK (0.001346s, 742.942/s).
+[Thu Sep 18 18:46:47 2014] [debug] POST "/add_place".
+[Thu Sep 18 18:46:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 18:46:47 2014] [error] [Request] ** [http://192.168.1.100:9200]-[400] MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lon]]; , called from sub Search::Elasticsearch::Transport::try {...}  at /home/mihai/perl5/lib/perl5/Try/Tiny.pm line 81. With vars: {'status_code' => 400,'request' => {'qs' => {},'body' => {'geo_location' => {'lon' => '26.103889','lat' => '44.4325'},'name' => 'ASD'},'path' => '/mapchallenge/places/541afe672b3000409d3c2231','ignore' => [],'mime_type' => 'application/json','serialize' => 'std','method' => 'POST'},'body' => {'error' => 'MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lon]]; ','status' => 400}}
+
+[Thu Sep 18 18:46:47 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 18:46:47 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 18:46:47 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 18:46:47 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 18:46:47 2014] [debug] 500 Internal Server Error (0.107074s, 9.339/s).
+[Thu Sep 18 18:50:07 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 18:50:10 2014] [debug] GET "/".
+[Thu Sep 18 18:50:10 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 18:50:10 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 18:50:10 2014] [debug] 200 OK (0.004189s, 238.720/s).
+[Thu Sep 18 18:50:11 2014] [debug] GET "/get_places".
+[Thu Sep 18 18:50:11 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 18:50:11 2014] [debug] 200 OK (0.001864s, 536.481/s).
+[Thu Sep 18 18:50:16 2014] [debug] POST "/add_place".
+[Thu Sep 18 18:50:16 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 18:50:16 2014] [debug] 200 OK (0.024570s, 40.700/s).
+[Thu Sep 18 18:52:38 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 18:52:40 2014] [debug] GET "/".
+[Thu Sep 18 18:52:40 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 18:52:40 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 18:52:40 2014] [debug] 200 OK (0.003602s, 277.624/s).
+[Thu Sep 18 18:52:40 2014] [debug] GET "/get_places".
+[Thu Sep 18 18:52:40 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 18:52:40 2014] [debug] 200 OK (0.001482s, 674.764/s).
+[Thu Sep 18 18:52:47 2014] [debug] POST "/add_place".
+[Thu Sep 18 18:52:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 18:52:47 2014] [debug] 200 OK (0.016261s, 61.497/s).
+[Thu Sep 18 18:53:22 2014] [debug] GET "/".
+[Thu Sep 18 18:53:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 18:53:22 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 18:53:22 2014] [debug] 200 OK (0.003805s, 262.812/s).
+[Thu Sep 18 18:53:22 2014] [debug] GET "/get_places".
+[Thu Sep 18 18:53:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 18:53:22 2014] [debug] 200 OK (0.001663s, 601.323/s).
+[Thu Sep 18 18:53:27 2014] [debug] POST "/add_place".
+[Thu Sep 18 18:53:27 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 18:53:27 2014] [debug] 200 OK (0.018389s, 54.380/s).
+[Thu Sep 18 18:57:13 2014] [debug] GET "/".
+[Thu Sep 18 18:57:13 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 18:57:13 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 18:57:13 2014] [debug] 200 OK (0.005484s, 182.349/s).
+[Thu Sep 18 18:57:14 2014] [debug] GET "/get_places".
+[Thu Sep 18 18:57:14 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 18:57:14 2014] [debug] 200 OK (0.002437s, 410.341/s).
+[Thu Sep 18 18:57:27 2014] [debug] POST "/add_place".
+[Thu Sep 18 18:57:27 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 18:57:27 2014] [debug] 200 OK (0.016969s, 58.931/s).
+[Thu Sep 18 18:57:47 2014] [debug] POST "/add_place".
+[Thu Sep 18 18:57:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 18:57:47 2014] [error] [Request] ** [http://192.168.1.100:9200]-[400] MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lon]]; , called from sub Search::Elasticsearch::Transport::try {...}  at /home/mihai/perl5/lib/perl5/Try/Tiny.pm line 81. With vars: {'body' => {'status' => 400,'error' => 'MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lon]]; '},'status_code' => 400,'request' => {'qs' => {},'path' => '/mapchallenge/places/541b00fb2b300041f54896a1','serialize' => 'std','mime_type' => 'application/json','method' => 'POST','ignore' => [],'body' => {'timeStamp' => '2014-09-18T15:57:47','name' => 'WD','geo_location' => {'lon' => '26.103889','lat' => '44.4325'}}}}
+
+[Thu Sep 18 18:57:47 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 18:57:47 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 18:57:47 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 18:57:47 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 18:57:47 2014] [debug] 500 Internal Server Error (0.030237s, 33.072/s).
+[Thu Sep 18 18:58:01 2014] [debug] GET "/get_places".
+[Thu Sep 18 18:58:01 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 18:58:01 2014] [debug] 200 OK (0.001701s, 587.889/s).
+[Thu Sep 18 18:58:03 2014] [debug] POST "/add_place".
+[Thu Sep 18 18:58:03 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 18:58:03 2014] [error] [Request] ** [http://192.168.1.100:9200]-[400] MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lon]]; , called from sub Search::Elasticsearch::Transport::try {...}  at /home/mihai/perl5/lib/perl5/Try/Tiny.pm line 81. With vars: {'body' => {'error' => 'MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lon]]; ','status' => 400},'request' => {'mime_type' => 'application/json','serialize' => 'std','path' => '/mapchallenge/places/541b010b2b300041f54896a2','ignore' => [],'body' => {'timeStamp' => '2014-09-18T15:58:03','name' => 'WD','geo_location' => {'lon' => '26.103889','lat' => '44.4325'}},'method' => 'POST','qs' => {}},'status_code' => 400}
+
+[Thu Sep 18 18:58:03 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 18:58:03 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 18:58:03 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 18:58:03 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 18:58:03 2014] [debug] 500 Internal Server Error (0.048681s, 20.542/s).
+[Thu Sep 18 18:58:26 2014] [debug] GET "/".
+[Thu Sep 18 18:58:26 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 18:58:26 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 18:58:26 2014] [debug] 200 OK (0.002976s, 336.022/s).
+[Thu Sep 18 18:58:27 2014] [debug] GET "/get_places".
+[Thu Sep 18 18:58:27 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 18:58:27 2014] [debug] 200 OK (0.001656s, 603.865/s).
+[Thu Sep 18 18:58:36 2014] [debug] POST "/add_place".
+[Thu Sep 18 18:58:36 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 18:58:36 2014] [error] [Request] ** [http://192.168.1.100:9200]-[400] MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lon]]; , called from sub Search::Elasticsearch::Transport::try {...}  at /home/mihai/perl5/lib/perl5/Try/Tiny.pm line 81. With vars: {'body' => {'status' => 400,'error' => 'MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lon]]; '},'request' => {'qs' => {},'path' => '/mapchallenge/places/541b012c2b300041f54896a3','mime_type' => 'application/json','serialize' => 'std','method' => 'POST','ignore' => [],'body' => {'geo_location' => {'lon' => '26.103889','lat' => '44.4325'},'name' => 'WDWD','timeStamp' => '2014-09-18T15:58:36'}},'status_code' => 400}
+
+[Thu Sep 18 18:58:36 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 18:58:36 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 18:58:36 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 18:58:36 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 18:58:36 2014] [debug] 500 Internal Server Error (0.046644s, 21.439/s).
+[Thu Sep 18 18:58:55 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 18:59:15 2014] [debug] GET "/".
+[Thu Sep 18 18:59:15 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 18:59:15 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 18:59:15 2014] [debug] 200 OK (0.004192s, 238.550/s).
+[Thu Sep 18 18:59:16 2014] [debug] GET "/get_places".
+[Thu Sep 18 18:59:16 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 18:59:16 2014] [debug] 200 OK (0.002083s, 480.077/s).
+[Thu Sep 18 18:59:31 2014] [debug] POST "/add_place".
+[Thu Sep 18 18:59:31 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 18:59:31 2014] [error] [Request] ** [http://192.168.1.100:9200]-[400] MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lat]]; , called from sub Search::Elasticsearch::Transport::try {...}  at /home/mihai/perl5/lib/perl5/Try/Tiny.pm line 81. With vars: {'request' => {'ignore' => [],'method' => 'POST','serialize' => 'std','path' => '/mapchallenge/places/541b01632b30004210799601','body' => {'timeStamp' => '2014-09-18T15:59:31','geo_location' => {'lat' => '44.4325','lon' => '26.103889'},'name' => 'WDWWDW'},'qs' => {},'mime_type' => 'application/json'},'body' => {'error' => 'MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lat]]; ','status' => 400},'status_code' => 400}
+
+[Thu Sep 18 18:59:31 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 18:59:31 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 18:59:31 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 18:59:31 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 18:59:31 2014] [debug] 500 Internal Server Error (0.029690s, 33.681/s).
+[Thu Sep 18 18:59:50 2014] [debug] GET "/index".
+[Thu Sep 18 18:59:50 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 18:59:50 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 18:59:50 2014] [debug] 200 OK (0.000628s, 1592.357/s).
+[Thu Sep 18 18:59:50 2014] [debug] GET "/get_places".
+[Thu Sep 18 18:59:50 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 18:59:50 2014] [debug] 200 OK (0.001804s, 554.324/s).
+[Thu Sep 18 18:59:57 2014] [debug] POST "/add_place".
+[Thu Sep 18 18:59:57 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 18:59:57 2014] [error] [Request] ** [http://192.168.1.100:9200]-[400] MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lat]]; , called from sub Search::Elasticsearch::Transport::try {...}  at /home/mihai/perl5/lib/perl5/Try/Tiny.pm line 81. With vars: {'body' => {'status' => 400,'error' => 'MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lat]]; '},'status_code' => 400,'request' => {'body' => {'name' => 'AFQA','geo_location' => {'lat' => '44.4325','lon' => '26.103889'},'timeStamp' => '2014-09-18T15:59:57'},'qs' => {},'mime_type' => 'application/json','method' => 'POST','ignore' => [],'serialize' => 'std','path' => '/mapchallenge/places/541b017d2b30004210799602'}}
+
+[Thu Sep 18 18:59:57 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 18:59:57 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 18:59:57 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 18:59:57 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 18:59:57 2014] [debug] 500 Internal Server Error (0.046406s, 21.549/s).
+[Thu Sep 18 19:02:29 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 19:02:36 2014] [debug] GET "/index".
+[Thu Sep 18 19:02:36 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:02:36 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 19:02:36 2014] [debug] 200 OK (0.005806s, 172.236/s).
+[Thu Sep 18 19:02:36 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:02:36 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:02:36 2014] [debug] 200 OK (0.002390s, 418.410/s).
+[Thu Sep 18 19:02:40 2014] [debug] POST "/add_place".
+[Thu Sep 18 19:02:40 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 19:02:40 2014] [error] [Request] ** [http://192.168.1.100:9200]-[400] MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lon]]; , called from sub Search::Elasticsearch::Transport::try {...}  at /home/mihai/perl5/lib/perl5/Try/Tiny.pm line 81. With vars: {'status_code' => 400,'body' => {'status' => 400,'error' => 'MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lon]]; '},'request' => {'qs' => {},'mime_type' => 'application/json','body' => '{"timeStamp":"2014-09-18T16:02:40","geo_location":{"lon":26.103889,"lat":44.4325},"name":"WDWDWd"}','ignore' => [],'path' => '/mapchallenge/places/541b02202b300043e20c5a11','serialize' => 'std','method' => 'POST'}}
+
+[Thu Sep 18 19:02:40 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 19:02:40 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 19:02:40 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 19:02:40 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 19:02:40 2014] [debug] 500 Internal Server Error (0.030004s, 33.329/s).
+[Thu Sep 18 19:03:54 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 19:04:00 2014] [debug] GET "/index".
+[Thu Sep 18 19:04:00 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:04:00 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 19:04:00 2014] [debug] 200 OK (0.005818s, 171.880/s).
+[Thu Sep 18 19:04:00 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:04:00 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:04:00 2014] [debug] 200 OK (0.002168s, 461.255/s).
+[Thu Sep 18 19:04:05 2014] [debug] POST "/add_place".
+[Thu Sep 18 19:04:05 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 19:04:05 2014] [error] [Request] ** [http://192.168.1.100:9200]-[400] MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lat]]; , called from sub Search::Elasticsearch::Transport::try {...}  at /home/mihai/perl5/lib/perl5/Try/Tiny.pm line 81. With vars: {'status_code' => 400,'request' => {'qs' => {},'path' => '/mapchallenge/places/541b02752b3000441e563f71','method' => 'POST','mime_type' => 'application/json','ignore' => [],'body' => '{"geo_location":{"lat":44.4325,"lon":26.103889},"name":"WDWDW","timeStamp":"2014-09-18T16:04:05"}','serialize' => 'std'},'body' => {'error' => 'MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lat]]; ','status' => 400}}
+
+[Thu Sep 18 19:04:05 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 19:04:05 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 19:04:05 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 19:04:05 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 19:04:05 2014] [debug] 500 Internal Server Error (0.029907s, 33.437/s).
+[Thu Sep 18 19:05:09 2014] [debug] GET "/index".
+[Thu Sep 18 19:05:09 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:05:09 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 19:05:09 2014] [debug] 200 OK (0.007504s, 133.262/s).
+[Thu Sep 18 19:05:09 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:05:09 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:05:09 2014] [debug] 200 OK (0.003559s, 280.978/s).
+[Thu Sep 18 19:05:14 2014] [debug] POST "/add_place".
+[Thu Sep 18 19:05:14 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 19:05:14 2014] [error] [Param] ** Expecting a HASH ref or a list of key-value pairs, called from sub Search::Elasticsearch::Client::Direct::index at lib/MapChallange/Controller/Base.pm line 41. With vars: {'params' => ['index','mapchallenge','type','places','id',bless( {'value' => '541b02ba2b300044311581d1'}, 'MongoDB::OID' ),'body','geo_location',{'lon' => '26.103889','lat' => '44.4325'},'name','WFW','timeStamp','2014-09-18T16:05:14']}
+
+[Thu Sep 18 19:05:14 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 19:05:14 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 19:05:14 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 19:05:14 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 19:05:14 2014] [debug] 500 Internal Server Error (0.018465s, 54.157/s).
+[Thu Sep 18 19:06:01 2014] [debug] GET "/index".
+[Thu Sep 18 19:06:01 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:06:01 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 19:06:01 2014] [debug] 200 OK (0.007737s, 129.249/s).
+[Thu Sep 18 19:06:01 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:06:01 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:06:01 2014] [debug] 200 OK (0.002721s, 367.512/s).
+[Thu Sep 18 19:06:04 2014] [debug] POST "/add_place".
+[Thu Sep 18 19:06:04 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 19:06:04 2014] [error] [Param] ** Expecting a HASH ref or a list of key-value pairs, called from sub Search::Elasticsearch::Client::Direct::index at lib/MapChallange/Controller/Base.pm line 42. With vars: {'params' => ['index','mapchallenge','type','places','id',bless( {'value' => '541b02ec2b300044425b5e11'}, 'MongoDB::OID' ),'body','timeStamp','2014-09-18T16:06:04','name','FWWF','geo_location',{'lon' => '26.103889','lat' => '44.4325'}]}
+
+[Thu Sep 18 19:06:04 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 19:06:04 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 19:06:04 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 19:06:04 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 19:06:04 2014] [debug] 500 Internal Server Error (0.017424s, 57.392/s).
+[Thu Sep 18 19:06:24 2014] [debug] GET "/index".
+[Thu Sep 18 19:06:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:06:24 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 19:06:24 2014] [debug] 200 OK (0.005784s, 172.891/s).
+[Thu Sep 18 19:06:24 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:06:24 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:06:24 2014] [debug] 200 OK (0.003456s, 289.352/s).
+[Thu Sep 18 19:06:27 2014] [debug] POST "/add_place".
+[Thu Sep 18 19:06:27 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 19:06:27 2014] [error] [Param] ** Expecting a HASH ref or a list of key-value pairs, called from sub Search::Elasticsearch::Client::Direct::index at lib/MapChallange/Controller/Base.pm line 41. With vars: {'params' => ['index','mapchallenge','type','places','id','541b03032b300044525acc91','body','timeStamp','2014-09-18T16:06:27','name','WFW','geo_location',{'lon' => '26.103889','lat' => '44.4325'}]}
+
+[Thu Sep 18 19:06:27 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 19:06:27 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 19:06:27 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 19:06:27 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 19:06:27 2014] [debug] 500 Internal Server Error (0.016955s, 58.980/s).
+[Thu Sep 18 19:07:08 2014] [debug] GET "/index".
+[Thu Sep 18 19:07:08 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:07:08 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 19:07:08 2014] [debug] 200 OK (0.005378s, 185.943/s).
+[Thu Sep 18 19:07:08 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:07:08 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:07:08 2014] [debug] 200 OK (0.003312s, 301.932/s).
+[Thu Sep 18 19:07:13 2014] [debug] POST "/add_place".
+[Thu Sep 18 19:07:13 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 19:07:13 2014] [error] [Param] ** Expecting a HASH ref or a list of key-value pairs, called from sub Search::Elasticsearch::Client::Direct::index at lib/MapChallange/Controller/Base.pm line 42. With vars: {'params' => ['index','mapchallenge','type','places','id','541b03312b300044693d8bf1','body','timeStamp','2014-09-18T16:07:13','geo_location',{'lat' => '44.4325','lon' => '26.103889'},'name','WFFWF']}
+
+[Thu Sep 18 19:07:13 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 19:07:13 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 19:07:13 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 19:07:13 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 19:07:13 2014] [debug] 500 Internal Server Error (0.016793s, 59.549/s).
+[Thu Sep 18 19:07:32 2014] [debug] GET "/index".
+[Thu Sep 18 19:07:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:07:32 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 19:07:32 2014] [debug] 200 OK (0.005104s, 195.925/s).
+[Thu Sep 18 19:07:32 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:07:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:07:32 2014] [debug] 200 OK (0.002791s, 358.295/s).
+[Thu Sep 18 19:07:37 2014] [debug] POST "/add_place".
+[Thu Sep 18 19:07:37 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 19:07:37 2014] [error] [Request] ** [http://192.168.1.100:9200]-[400] MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lon]]; , called from sub Search::Elasticsearch::Transport::try {...}  at /home/mihai/perl5/lib/perl5/Try/Tiny.pm line 81. With vars: {'body' => {'error' => 'MapperParsingException[failed to parse [geo_location]]; nested: ElasticsearchIllegalArgumentException[unknown property [lon]]; ','status' => 400},'status_code' => 400,'request' => {'path' => '/mapchallenge/places/541b03492b30004474622941','qs' => {},'ignore' => [],'mime_type' => 'application/json','method' => 'POST','body' => {'timeStamp' => '2014-09-18T16:07:37','geo_location' => {'lon' => '26.103889','lat' => '44.4325'},'name' => 'WD'},'serialize' => 'std'}}
+
+[Thu Sep 18 19:07:37 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 19:07:37 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 19:07:37 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 19:07:37 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 19:07:37 2014] [debug] 500 Internal Server Error (0.027822s, 35.943/s).
+[Thu Sep 18 19:09:52 2014] [debug] GET "/index".
+[Thu Sep 18 19:09:52 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:09:52 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 19:09:52 2014] [debug] 200 OK (0.005513s, 181.389/s).
+[Thu Sep 18 19:09:52 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:09:52 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:09:52 2014] [debug] 200 OK (0.001214s, 823.723/s).
+[Thu Sep 18 19:10:03 2014] [debug] POST "/add_place".
+[Thu Sep 18 19:10:03 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 19:10:03 2014] [debug] 200 OK (0.166433s, 6.008/s).
+[Thu Sep 18 19:12:57 2014] [debug] GET "/index".
+[Thu Sep 18 19:12:57 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:12:57 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 19:12:57 2014] [debug] 200 OK (0.005474s, 182.682/s).
+[Thu Sep 18 19:12:57 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:12:57 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:12:57 2014] [debug] 200 OK (0.001074s, 931.099/s).
+[Thu Sep 18 19:13:05 2014] [debug] POST "/add_place".
+[Thu Sep 18 19:13:05 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 19:13:05 2014] [debug] 200 OK (0.015686s, 63.751/s).
+[Thu Sep 18 19:13:06 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:13:06 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:13:06 2014] [debug] 200 OK (0.001038s, 963.391/s).
+[Thu Sep 18 19:14:30 2014] [debug] GET "/".
+[Thu Sep 18 19:14:30 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:14:30 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 19:14:30 2014] [debug] 200 OK (0.000492s, 2032.520/s).
+[Thu Sep 18 19:14:36 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:14:36 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:14:36 2014] [debug] 200 OK (0.000925s, 1081.081/s).
+[Thu Sep 18 19:15:26 2014] [debug] GET "/".
+[Thu Sep 18 19:15:26 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:15:26 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 19:15:26 2014] [debug] 200 OK (0.000394s, 2538.071/s).
+[Thu Sep 18 19:15:28 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:15:28 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:15:28 2014] [debug] 200 OK (0.001139s, 877.963/s).
+[Thu Sep 18 19:15:57 2014] [debug] POST "/add_place".
+[Thu Sep 18 19:15:57 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 19:15:57 2014] [debug] 200 OK (0.041880s, 23.878/s).
+[Thu Sep 18 19:15:57 2014] [debug] POST "/add_place".
+[Thu Sep 18 19:15:57 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 19:15:57 2014] [debug] 200 OK (0.041723s, 23.968/s).
+[Thu Sep 18 19:16:03 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:16:03 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:16:03 2014] [debug] 200 OK (0.001313s, 761.615/s).
+[Thu Sep 18 19:16:06 2014] [debug] GET "/".
+[Thu Sep 18 19:16:06 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:16:06 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 19:16:06 2014] [debug] 200 OK (0.000468s, 2136.752/s).
+[Thu Sep 18 19:16:06 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:16:06 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:16:06 2014] [debug] 200 OK (0.001122s, 891.266/s).
+[Thu Sep 18 19:16:11 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:16:11 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:16:11 2014] [debug] 200 OK (0.001138s, 878.735/s).
+[Thu Sep 18 19:16:19 2014] [debug] GET "/index".
+[Thu Sep 18 19:16:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:16:19 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 19:16:19 2014] [debug] 200 OK (0.000408s, 2450.980/s).
+[Thu Sep 18 19:16:20 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:16:20 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:16:20 2014] [debug] 200 OK (0.001398s, 715.308/s).
+[Thu Sep 18 19:16:47 2014] [debug] GET "/".
+[Thu Sep 18 19:16:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:16:47 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 19:16:47 2014] [debug] 200 OK (0.000479s, 2087.683/s).
+[Thu Sep 18 19:16:47 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:16:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:16:47 2014] [debug] 200 OK (0.001125s, 888.889/s).

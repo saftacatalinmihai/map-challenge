@@ -22,6 +22,7 @@ $(document).ready(function(){
 
 function ajax_add_place(data, callback){
   var url = 'add_place';
+  
   $.ajax({
       url: url,
       data: data,
