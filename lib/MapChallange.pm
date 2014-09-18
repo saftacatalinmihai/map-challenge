@@ -14,7 +14,7 @@ has 'search_engine' => ( is => 'ro' );
 # Routes
 sub startup {
 	my $self = shift;
-	$self->routes->get('/')->to('base#welcome');
+	$self->routes->get('/')->to('base#index');
 	$self->routes->get('/index')->to('base#index');
 	$self->routes->get('/get_places')->to('base#get_places');
 	$self->routes->post('/add_place')->to('base#add_place');
@@ -22,7 +22,7 @@ sub startup {
 	# Add static paths to javascript and css files
 	push @{$self->static->paths}, "$Bin/templates/js";
 	push @{$self->static->paths}, "$Bin/templates/static_html";
-	push @{$self->static->paths}, "$Bin/templates/bower_components";
+	push @{$self->static->paths}, "$Bin/templates/git ls ";
 
 };
 
