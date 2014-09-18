@@ -11,6 +11,17 @@ mapChallange.controller('PlacesList', function($scope, $http) {
 		alert(data);
 	})
 
+	$scope.fitToMarkers = 'true';
+
+	$scope.$watch('$viewContentLoaded', function(){
+		map = document.querySelector('google-map');
+		map.addEventListener('google-map-ready', function(e) {
+	    	$scope.$apply(function(){
+	    		$scope.fitToMarkers = 'false';
+	    	})
+	  	});
+ 	});
+
 	$scope.updatePlaces = function(){
 		$http({
 			method: 'GET',
