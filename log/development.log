@@ -2516,3 +2516,11 @@
 [Thu Sep 18 15:25:01 2014] [debug] GET "/get_places".
 [Thu Sep 18 15:25:01 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
 [Thu Sep 18 15:25:01 2014] [debug] 200 OK (0.001182s, 846.024/s).
+[Thu Sep 18 15:42:14 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 15:42:17 2014] [debug] GET "/index".
+[Thu Sep 18 15:42:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 15:42:17 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 15:42:17 2014] [debug] 200 OK (0.004129s, 242.189/s).
+[Thu Sep 18 15:42:17 2014] [debug] GET "/get_places".
+[Thu Sep 18 15:42:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 15:42:17 2014] [debug] 200 OK (0.001090s, 917.431/s).
