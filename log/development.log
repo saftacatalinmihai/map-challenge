@@ -4301,3 +4301,38 @@
 [Thu Sep 18 19:16:47 2014] [debug] GET "/get_places".
 [Thu Sep 18 19:16:47 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
 [Thu Sep 18 19:16:47 2014] [debug] 200 OK (0.001125s, 888.889/s).
+[Thu Sep 18 19:22:56 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 19:23:04 2014] [debug] GET "/".
+[Thu Sep 18 19:23:04 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:23:04 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 19:23:04 2014] [debug] 200 OK (0.004711s, 212.269/s).
+[Thu Sep 18 19:23:04 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:23:04 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:23:04 2014] [debug] 200 OK (0.132280s, 7.560/s).
+[Thu Sep 18 19:23:14 2014] [debug] POST "/add_place".
+[Thu Sep 18 19:23:14 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 19:25:22 2014] [error] [Timeout] ** [http://172.31.37.67:9200]-[599] Could not connect to '172.31.37.67:9200': Connection timed out, called from sub Search::Elasticsearch::Transport::try {...}  at /home/mihai/perl5/lib/perl5/Try/Tiny.pm line 81. With vars: {'status_code' => 599,'request' => {'path' => '/mapchallenge/places/541b06f22b3000459057a5a1','mime_type' => 'application/json','body' => {'timeStamp' => '2014-09-18T16:23:14','name' => 'Test','geo_location' => {'lon' => '26.103889','lat' => '44.4325'}},'qs' => {},'method' => 'POST','serialize' => 'std','ignore' => []}}
+
+[Thu Sep 18 19:25:22 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Sep 18 19:25:22 2014] [debug] Template "exception.html.ep" not found.
+[Thu Sep 18 19:25:22 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 19:25:22 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 19:25:22 2014] [debug] 500 Internal Server Error (127.873945s, 0.008/s).
+[Thu Sep 18 19:27:20 2014] [debug] GET "/".
+[Thu Sep 18 19:27:20 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:27:20 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 19:27:20 2014] [debug] 200 OK (0.005653s, 176.897/s).
+[Thu Sep 18 19:27:21 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:27:21 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:27:21 2014] [debug] 200 OK (0.136327s, 7.335/s).
+[Thu Sep 18 19:27:30 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 19:27:34 2014] [debug] GET "/".
+[Thu Sep 18 19:27:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 19:27:34 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 19:27:34 2014] [debug] 200 OK (0.005520s, 181.159/s).
+[Thu Sep 18 19:27:34 2014] [debug] GET "/get_places".
+[Thu Sep 18 19:27:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 19:27:34 2014] [debug] 200 OK (0.001439s, 694.927/s).
+[Thu Sep 18 19:27:39 2014] [debug] POST "/add_place".
+[Thu Sep 18 19:27:39 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "add_place".
+[Thu Sep 18 19:27:39 2014] [debug] 200 OK (0.001488s, 672.043/s).

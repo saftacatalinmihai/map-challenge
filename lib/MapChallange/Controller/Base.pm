@@ -17,7 +17,7 @@ sub index {
 sub add_place {
     my $self = shift;
 
-    my $now        = DateTime->now;
+    my $now = DateTime->now;
 
     # Add to Mongo
     my $collection = $self->app->places;
@@ -27,16 +27,16 @@ sub add_place {
     my $id = $collection->insert($json_entry);
 
     # Add to ElasticSearch
-    my $e = $self->app->search_engine();
-    $json_entry->{timeStamp} = $now->datetime();
-    $e->index(
-        index => 'mapchallenge',
-        type  => 'places',
-        id    => $id->to_string(),
-        body  => $json_entry,
-    );
+    # my $e = $self->app->search_engine();
+    # $json_entry->{timeStamp} = $now->datetime();
+    # $e->index(
+    #     index => 'mapchallenge',
+    #     type  => 'places',
+    #     id    => $id->to_string(),
+    #     body  => $json_entry,
+    # );
 
-    $self->render( json => {response => "Place added"} );
+    $self->render( json => { response => "Place added" } );
 }
 
 sub get_places {
