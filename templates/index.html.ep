@@ -91,20 +91,26 @@
   </style>
 </head>
 <body ng-controller="PlacesList">
-
   <core-scaffold>
-  
-  <core-header-panel navigation flex mode="seamed">
-    <core-toolbar style="background-color: #526E9C; color: #fff;">MapChallenge</core-toolbar>
-    <core-menu>
-      <core-item icon="settings" label="Add Place"></core-item>
-      <core-item icon="settings" label="View Places"></core-item>
-    </core-menu>
-  </core-header-panel>
-
-  <div tool>Map</div>
-
+    <core-header-panel navigation flex mode="seamed">
+      <core-toolbar style="background-color: #526E9C; color: #fff;">MapChallenge</core-toolbar>
+      <core-menu>
+        <core-item icon="settings" label="Add Place"></core-item>
+        <core-item icon="settings" label="View Places"></core-item>
+      </core-menu>
+    </core-header-panel>
+    <div tool>Map</div>
     <div class="content">
+      <div class='add_place'>
+        <form ng-submit="getPosition()">
+          <input type="text" ng-model="placeName" size="30"
+          placeholder="add new place here">
+          <input class="btn-primary" type="submit" value="add">
+        </form>
+        <form ng-submit="updatePlaces()">
+          <input class="btn-primary", type="submit", value="update">
+        </form>
+      </div>
       <div class="google-map">
         <google-map fitToMarkers={{fitToMarkers}}>
           <google-map-marker ng-repeat='place in places' latitude={{place.geo_location.lat}} longitude={{place.geo_location.lon}}
@@ -122,14 +128,6 @@
           </core-item>
         </li>
       </ul>
-      <form ng-submit="getPosition()">
-        <input type="text" ng-model="placeName" size="30"
-        placeholder="add new place here">
-        <input class="btn-primary" type="submit" value="add">
-      </form>
-      <form ng-submit="updatePlaces()">
-        <input class="btn-primary", type="submit", value="update">
-      </form>
     </div>
   </core-scaffold>
 </body>
