@@ -2524,3 +2524,1457 @@
 [Thu Sep 18 15:42:17 2014] [debug] GET "/get_places".
 [Thu Sep 18 15:42:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
 [Thu Sep 18 15:42:17 2014] [debug] 200 OK (0.001090s, 917.431/s).
+[Thu Sep 18 16:05:02 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 16:05:11 2014] [debug] GET "/".
+[Thu Sep 18 16:05:11 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:05:11 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 16:05:11 2014] [debug] 200 OK (0.003400s, 294.118/s).
+[Thu Sep 18 16:05:11 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:05:11 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:05:11 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:05:11 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:05:11 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:05:11 2014] [debug] 404 Not Found (0.012971s, 77.095/s).
+[Thu Sep 18 16:05:11 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:05:11 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:05:11 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:05:11 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:05:11 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:05:11 2014] [debug] 404 Not Found (0.003011s, 332.116/s).
+[Thu Sep 18 16:05:11 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:05:11 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:05:11 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:05:11 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:05:11 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:05:11 2014] [debug] 404 Not Found (0.002938s, 340.368/s).
+[Thu Sep 18 16:05:11 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:05:11 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:05:11 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:05:11 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:05:11 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:05:11 2014] [debug] 404 Not Found (0.002877s, 347.584/s).
+[Thu Sep 18 16:05:11 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:05:11 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:05:11 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:05:11 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:05:11 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:05:11 2014] [debug] 404 Not Found (0.003194s, 313.087/s).
+[Thu Sep 18 16:05:11 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:05:11 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:05:11 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:05:11 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:05:11 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:05:11 2014] [debug] 404 Not Found (0.003290s, 303.951/s).
+[Thu Sep 18 16:05:38 2014] [debug] GET "/".
+[Thu Sep 18 16:05:38 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:05:38 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 16:05:38 2014] [debug] 200 OK (0.000399s, 2506.266/s).
+[Thu Sep 18 16:05:38 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:05:38 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:05:38 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:05:38 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:05:38 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:05:38 2014] [debug] 404 Not Found (0.003543s, 282.247/s).
+[Thu Sep 18 16:05:38 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:05:38 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:05:38 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:05:38 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:05:38 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:05:38 2014] [debug] 404 Not Found (0.003120s, 320.513/s).
+[Thu Sep 18 16:05:38 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:05:38 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:05:38 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:05:38 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:05:38 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:05:38 2014] [debug] 404 Not Found (0.003368s, 296.912/s).
+[Thu Sep 18 16:05:38 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:05:38 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:05:38 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:05:38 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:05:38 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:05:38 2014] [debug] 404 Not Found (0.002909s, 343.761/s).
+[Thu Sep 18 16:05:38 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:05:38 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:05:38 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:05:38 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:05:38 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:05:38 2014] [debug] 404 Not Found (0.003347s, 298.775/s).
+[Thu Sep 18 16:05:38 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:05:38 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:05:38 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:05:38 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:05:38 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:05:38 2014] [debug] 404 Not Found (0.003215s, 311.042/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/index".
+[Thu Sep 18 16:10:06 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 16:10:06 2014] [debug] 200 OK (0.000506s, 1976.285/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:06 2014] [debug] 404 Not Found (0.004053s, 246.731/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:06 2014] [debug] 404 Not Found (0.004025s, 248.447/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:06 2014] [debug] 404 Not Found (0.003392s, 294.811/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:06 2014] [debug] 404 Not Found (0.003091s, 323.520/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/paper-input/paper-input.html".
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:06 2014] [debug] 404 Not Found (0.003848s, 259.875/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:06 2014] [debug] 404 Not Found (0.003208s, 311.721/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/core-item/core-item.html".
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:06 2014] [debug] 404 Not Found (0.002820s, 354.610/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/core-menu/core-menu.html".
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:06 2014] [debug] 404 Not Found (0.002864s, 349.162/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:06 2014] [debug] 404 Not Found (0.002826s, 353.857/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/paper-button/paper-button.html".
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:06 2014] [debug] 404 Not Found (0.002895s, 345.423/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/core-elements/core-elements.html".
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:06 2014] [debug] 404 Not Found (0.002957s, 338.181/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:06 2014] [debug] 404 Not Found (0.003057s, 327.118/s).
+[Thu Sep 18 16:10:06 2014] [debug] GET "/google-map/google-map.html".
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:06 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:06 2014] [debug] 404 Not Found (0.002835s, 352.734/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/".
+[Thu Sep 18 16:10:10 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 16:10:10 2014] [debug] 200 OK (0.000516s, 1937.984/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:10 2014] [debug] 404 Not Found (0.004766s, 209.820/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:10 2014] [debug] 404 Not Found (0.005385s, 185.701/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:10 2014] [debug] 404 Not Found (0.003190s, 313.480/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:10 2014] [debug] 404 Not Found (0.003318s, 301.386/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/paper-input/paper-input.html".
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:10 2014] [debug] 404 Not Found (0.003358s, 297.796/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/core-item/core-item.html".
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:10 2014] [debug] 404 Not Found (0.003278s, 305.064/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:10 2014] [debug] 404 Not Found (0.002909s, 343.761/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:10 2014] [debug] 404 Not Found (0.003014s, 331.785/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/paper-button/paper-button.html".
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:10 2014] [debug] 404 Not Found (0.002898s, 345.066/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/core-menu/core-menu.html".
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:10 2014] [debug] 404 Not Found (0.003171s, 315.358/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/core-elements/core-elements.html".
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:10 2014] [debug] 404 Not Found (0.003148s, 317.662/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:10 2014] [debug] 404 Not Found (0.002993s, 334.113/s).
+[Thu Sep 18 16:10:10 2014] [debug] GET "/google-map/google-map.html".
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:10 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:10 2014] [debug] 404 Not Found (0.002895s, 345.423/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/".
+[Thu Sep 18 16:10:12 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 16:10:12 2014] [debug] 200 OK (0.000493s, 2028.398/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:12 2014] [debug] 404 Not Found (0.004170s, 239.808/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:12 2014] [debug] 404 Not Found (0.003599s, 277.855/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:12 2014] [debug] 404 Not Found (0.003284s, 304.507/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:12 2014] [debug] 404 Not Found (0.003162s, 316.256/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/paper-input/paper-input.html".
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:12 2014] [debug] 404 Not Found (0.003389s, 295.072/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/core-menu/core-menu.html".
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:12 2014] [debug] 404 Not Found (0.003024s, 330.688/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/paper-button/paper-button.html".
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:12 2014] [debug] 404 Not Found (0.002902s, 344.590/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:12 2014] [debug] 404 Not Found (0.003002s, 333.111/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:12 2014] [debug] 404 Not Found (0.002964s, 337.382/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/core-item/core-item.html".
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:12 2014] [debug] 404 Not Found (0.002908s, 343.879/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/core-elements/core-elements.html".
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:12 2014] [debug] 404 Not Found (0.003129s, 319.591/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:12 2014] [debug] 404 Not Found (0.003041s, 328.839/s).
+[Thu Sep 18 16:10:12 2014] [debug] GET "/google-map/google-map.html".
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:12 2014] [debug] 404 Not Found (0.002970s, 336.700/s).
+[Thu Sep 18 16:10:14 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:10:14 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:14 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:14 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:14 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:14 2014] [debug] 404 Not Found (0.003882s, 257.599/s).
+[Thu Sep 18 16:10:37 2014] [debug] GET "/".
+[Thu Sep 18 16:10:37 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "welcome".
+[Thu Sep 18 16:10:37 2014] [debug] 200 OK (0.001136s, 880.282/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/index".
+[Thu Sep 18 16:10:41 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 16:10:41 2014] [debug] 200 OK (0.003356s, 297.974/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:41 2014] [debug] 404 Not Found (0.014072s, 71.063/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:41 2014] [debug] 404 Not Found (0.003493s, 286.287/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:41 2014] [debug] 404 Not Found (0.003016s, 331.565/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:41 2014] [debug] 404 Not Found (0.003016s, 331.565/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/paper-input/paper-input.html".
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:41 2014] [debug] 404 Not Found (0.003634s, 275.179/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:41 2014] [debug] 404 Not Found (0.003201s, 312.402/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:41 2014] [debug] 404 Not Found (0.003002s, 333.111/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/core-menu/core-menu.html".
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:41 2014] [debug] 404 Not Found (0.002982s, 335.345/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/core-item/core-item.html".
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:41 2014] [debug] 404 Not Found (0.002941s, 340.020/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/paper-button/paper-button.html".
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:41 2014] [debug] 404 Not Found (0.002811s, 355.745/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:41 2014] [debug] 404 Not Found (0.003531s, 283.206/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/google-map/google-map.html".
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:41 2014] [debug] 404 Not Found (0.003466s, 288.517/s).
+[Thu Sep 18 16:10:41 2014] [debug] GET "/core-elements/core-elements.html".
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:10:41 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:10:41 2014] [debug] 404 Not Found (0.002895s, 345.423/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/index".
+[Thu Sep 18 16:11:25 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 16:11:25 2014] [debug] 200 OK (0.000463s, 2159.827/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:25 2014] [debug] 404 Not Found (0.004223s, 236.798/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:25 2014] [debug] 404 Not Found (0.004189s, 238.720/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:25 2014] [debug] 404 Not Found (0.003684s, 271.444/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:25 2014] [debug] 404 Not Found (0.003303s, 302.755/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/paper-input/paper-input.html".
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:25 2014] [debug] 404 Not Found (0.003790s, 263.852/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/paper-button/paper-button.html".
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:25 2014] [debug] 404 Not Found (0.003159s, 316.556/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:25 2014] [debug] 404 Not Found (0.003424s, 292.056/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:25 2014] [debug] 404 Not Found (0.003083s, 324.359/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/core-menu/core-menu.html".
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:25 2014] [debug] 404 Not Found (0.003461s, 288.934/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/core-item/core-item.html".
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:25 2014] [debug] 404 Not Found (0.004527s, 220.897/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/core-elements/core-elements.html".
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:25 2014] [debug] 404 Not Found (0.003722s, 268.673/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/google-map/google-map.html".
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:25 2014] [debug] 404 Not Found (0.003341s, 299.312/s).
+[Thu Sep 18 16:11:25 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:25 2014] [debug] 404 Not Found (0.003157s, 316.756/s).
+[Thu Sep 18 16:11:30 2014] [debug] GET "/welcome".
+[Thu Sep 18 16:11:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:30 2014] [debug] 404 Not Found (0.003685s, 271.370/s).
+[Thu Sep 18 16:11:34 2014] [debug] GET "/".
+[Thu Sep 18 16:11:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "welcome".
+[Thu Sep 18 16:11:34 2014] [debug] 200 OK (0.000266s, 3759.398/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/index".
+[Thu Sep 18 16:11:39 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 16:11:39 2014] [debug] 200 OK (0.000399s, 2506.266/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:39 2014] [debug] 404 Not Found (0.004503s, 222.074/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:39 2014] [debug] 404 Not Found (0.003786s, 264.131/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:39 2014] [debug] 404 Not Found (0.003683s, 271.518/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:39 2014] [debug] 404 Not Found (0.003405s, 293.686/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/paper-input/paper-input.html".
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:39 2014] [debug] 404 Not Found (0.003953s, 252.972/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/core-menu/core-menu.html".
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:39 2014] [debug] 404 Not Found (0.003269s, 305.904/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/core-item/core-item.html".
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:39 2014] [debug] 404 Not Found (0.003211s, 311.429/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/paper-button/paper-button.html".
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:39 2014] [debug] 404 Not Found (0.003283s, 304.599/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:39 2014] [debug] 404 Not Found (0.003113s, 321.234/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:39 2014] [debug] 404 Not Found (0.003390s, 294.985/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/core-elements/core-elements.html".
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:39 2014] [debug] 404 Not Found (0.003485s, 286.944/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/google-map/google-map.html".
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:39 2014] [debug] 404 Not Found (0.003200s, 312.500/s).
+[Thu Sep 18 16:11:39 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:39 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:39 2014] [debug] 404 Not Found (0.003184s, 314.070/s).
+[Thu Sep 18 16:11:48 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:11:48 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:11:48 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:11:48 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:11:48 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:11:48 2014] [debug] 404 Not Found (0.006153s, 162.522/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/index".
+[Thu Sep 18 16:12:30 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 16:12:30 2014] [debug] 200 OK (0.003395s, 294.551/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:30 2014] [debug] 404 Not Found (0.014049s, 71.179/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:30 2014] [debug] 404 Not Found (0.004333s, 230.787/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:30 2014] [debug] 404 Not Found (0.003288s, 304.136/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:30 2014] [debug] 404 Not Found (0.003277s, 305.157/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/paper-input/paper-input.html".
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:30 2014] [debug] 404 Not Found (0.003823s, 261.575/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/core-item/core-item.html".
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:30 2014] [debug] 404 Not Found (0.004251s, 235.239/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:30 2014] [debug] 404 Not Found (0.003368s, 296.912/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/paper-button/paper-button.html".
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:30 2014] [debug] 404 Not Found (0.004202s, 237.982/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:30 2014] [debug] 404 Not Found (0.003196s, 312.891/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/core-menu/core-menu.html".
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:30 2014] [debug] 404 Not Found (0.003174s, 315.060/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/core-elements/core-elements.html".
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:30 2014] [debug] 404 Not Found (0.003431s, 291.460/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:30 2014] [debug] 404 Not Found (0.003178s, 314.663/s).
+[Thu Sep 18 16:12:30 2014] [debug] GET "/google-map/google-map.html".
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:30 2014] [debug] 404 Not Found (0.003361s, 297.530/s).
+[Thu Sep 18 16:12:58 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:12:58 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:12:58 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:12:58 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:12:58 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:12:58 2014] [debug] 404 Not Found (0.006006s, 166.500/s).
+[Thu Sep 18 16:14:30 2014] [debug] GET "/index".
+[Thu Sep 18 16:14:30 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:14:30 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 16:14:30 2014] [debug] 200 OK (0.003796s, 263.435/s).
+[Thu Sep 18 16:14:30 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:14:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:30 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:30 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:30 2014] [debug] 404 Not Found (0.013559s, 73.752/s).
+[Thu Sep 18 16:14:30 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:14:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:31 2014] [debug] 404 Not Found (0.003359s, 297.708/s).
+[Thu Sep 18 16:14:31 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:31 2014] [debug] 404 Not Found (0.003257s, 307.031/s).
+[Thu Sep 18 16:14:31 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:31 2014] [debug] 404 Not Found (0.003384s, 295.508/s).
+[Thu Sep 18 16:14:31 2014] [debug] GET "/paper-input/paper-input.html".
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:31 2014] [debug] 404 Not Found (0.003463s, 288.767/s).
+[Thu Sep 18 16:14:31 2014] [debug] GET "/core-item/core-item.html".
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:31 2014] [debug] 404 Not Found (0.003366s, 297.089/s).
+[Thu Sep 18 16:14:31 2014] [debug] GET "/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:31 2014] [debug] 404 Not Found (0.003603s, 277.546/s).
+[Thu Sep 18 16:14:31 2014] [debug] GET "/core-menu/core-menu.html".
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:31 2014] [debug] 404 Not Found (0.004991s, 200.361/s).
+[Thu Sep 18 16:14:31 2014] [debug] GET "/paper-button/paper-button.html".
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:31 2014] [debug] 404 Not Found (0.003571s, 280.034/s).
+[Thu Sep 18 16:14:31 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:31 2014] [debug] 404 Not Found (0.003286s, 304.321/s).
+[Thu Sep 18 16:14:31 2014] [debug] GET "/core-elements/core-elements.html".
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:31 2014] [debug] 404 Not Found (0.003684s, 271.444/s).
+[Thu Sep 18 16:14:31 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:31 2014] [debug] 404 Not Found (0.003429s, 291.630/s).
+[Thu Sep 18 16:14:31 2014] [debug] GET "/google-map/google-map.html".
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:31 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:31 2014] [debug] 404 Not Found (0.003347s, 298.775/s).
+[Thu Sep 18 16:14:51 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:14:51 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:14:51 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:14:51 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:14:51 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:14:51 2014] [debug] 404 Not Found (0.006711s, 149.009/s).
+[Thu Sep 18 16:15:31 2014] [info] Listening at "http://*:3000".
+[Thu Sep 18 16:15:59 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 16:16:03 2014] [debug] GET "/index".
+[Thu Sep 18 16:16:03 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 16:16:03 2014] [debug] 200 OK (0.004165s, 240.096/s).
+[Thu Sep 18 16:16:03 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:16:03 2014] [debug] 404 Not Found (0.020001s, 49.998/s).
+[Thu Sep 18 16:16:03 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:16:03 2014] [debug] 404 Not Found (0.003508s, 285.063/s).
+[Thu Sep 18 16:16:03 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:16:03 2014] [debug] 404 Not Found (0.003552s, 281.532/s).
+[Thu Sep 18 16:16:03 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:16:03 2014] [debug] 404 Not Found (0.004184s, 239.006/s).
+[Thu Sep 18 16:16:03 2014] [debug] GET "/paper-input/paper-input.html".
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:16:03 2014] [debug] 404 Not Found (0.003549s, 281.770/s).
+[Thu Sep 18 16:16:03 2014] [debug] GET "/core-menu/core-menu.html".
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:16:03 2014] [debug] 404 Not Found (0.003389s, 295.072/s).
+[Thu Sep 18 16:16:03 2014] [debug] GET "/core-item/core-item.html".
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:16:03 2014] [debug] 404 Not Found (0.003275s, 305.344/s).
+[Thu Sep 18 16:16:03 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:16:03 2014] [debug] 404 Not Found (0.003208s, 311.721/s).
+[Thu Sep 18 16:16:03 2014] [debug] GET "/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:16:03 2014] [debug] 404 Not Found (0.003248s, 307.882/s).
+[Thu Sep 18 16:16:03 2014] [debug] GET "/paper-button/paper-button.html".
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:16:03 2014] [debug] 404 Not Found (0.005441s, 183.790/s).
+[Thu Sep 18 16:16:03 2014] [debug] GET "/core-elements/core-elements.html".
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:16:03 2014] [debug] 404 Not Found (0.005817s, 171.910/s).
+[Thu Sep 18 16:16:03 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:16:03 2014] [debug] 404 Not Found (0.006723s, 148.743/s).
+[Thu Sep 18 16:16:03 2014] [debug] GET "/google-map/google-map.html".
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:16:03 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:16:03 2014] [debug] 404 Not Found (0.005732s, 174.459/s).
+[Thu Sep 18 16:18:24 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 16:18:27 2014] [debug] GET "/index".
+[Thu Sep 18 16:18:27 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 16:18:27 2014] [debug] 200 OK (0.003838s, 260.552/s).
+[Thu Sep 18 16:18:27 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:18:27 2014] [debug] 404 Not Found (0.015256s, 65.548/s).
+[Thu Sep 18 16:18:27 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:18:27 2014] [debug] 404 Not Found (0.005006s, 199.760/s).
+[Thu Sep 18 16:18:27 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:18:27 2014] [debug] 404 Not Found (0.005343s, 187.161/s).
+[Thu Sep 18 16:18:27 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:18:27 2014] [debug] 404 Not Found (0.004876s, 205.086/s).
+[Thu Sep 18 16:18:27 2014] [debug] GET "/paper-input/paper-input.html".
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:18:27 2014] [debug] 404 Not Found (0.003530s, 283.286/s).
+[Thu Sep 18 16:18:27 2014] [debug] GET "/core-item/core-item.html".
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:18:27 2014] [debug] 404 Not Found (0.003458s, 289.184/s).
+[Thu Sep 18 16:18:27 2014] [debug] GET "/paper-button/paper-button.html".
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:18:27 2014] [debug] 404 Not Found (0.003342s, 299.222/s).
+[Thu Sep 18 16:18:27 2014] [debug] GET "/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:18:27 2014] [debug] 404 Not Found (0.004671s, 214.087/s).
+[Thu Sep 18 16:18:27 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:18:27 2014] [debug] 404 Not Found (0.003441s, 290.613/s).
+[Thu Sep 18 16:18:27 2014] [debug] GET "/core-menu/core-menu.html".
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:18:27 2014] [debug] 404 Not Found (0.003115s, 321.027/s).
+[Thu Sep 18 16:18:27 2014] [debug] GET "/core-elements/core-elements.html".
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:18:27 2014] [debug] 404 Not Found (0.003453s, 289.603/s).
+[Thu Sep 18 16:18:27 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:18:27 2014] [debug] 404 Not Found (0.003372s, 296.560/s).
+[Thu Sep 18 16:18:27 2014] [debug] GET "/google-map/google-map.html".
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:18:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:18:27 2014] [debug] 404 Not Found (0.003391s, 294.898/s).
+[Thu Sep 18 16:18:37 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 16:19:07 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 16:19:11 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 16:19:13 2014] [debug] GET "/index".
+[Thu Sep 18 16:19:13 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 16:19:13 2014] [debug] 200 OK (0.005119s, 195.351/s).
+[Thu Sep 18 16:19:13 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:19:13 2014] [debug] 404 Not Found (0.013985s, 71.505/s).
+[Thu Sep 18 16:19:13 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:19:13 2014] [debug] 404 Not Found (0.003791s, 263.783/s).
+[Thu Sep 18 16:19:13 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:19:13 2014] [debug] 404 Not Found (0.003995s, 250.313/s).
+[Thu Sep 18 16:19:13 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:19:13 2014] [debug] 404 Not Found (0.003503s, 285.470/s).
+[Thu Sep 18 16:19:13 2014] [debug] GET "/paper-input/paper-input.html".
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:19:13 2014] [debug] 404 Not Found (0.003824s, 261.506/s).
+[Thu Sep 18 16:19:13 2014] [debug] GET "/paper-button/paper-button.html".
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:19:13 2014] [debug] 404 Not Found (0.004281s, 233.590/s).
+[Thu Sep 18 16:19:13 2014] [debug] GET "/core-menu/core-menu.html".
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:19:13 2014] [debug] 404 Not Found (0.003582s, 279.174/s).
+[Thu Sep 18 16:19:13 2014] [debug] GET "/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:19:13 2014] [debug] 404 Not Found (0.003336s, 299.760/s).
+[Thu Sep 18 16:19:13 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:19:13 2014] [debug] 404 Not Found (0.003275s, 305.344/s).
+[Thu Sep 18 16:19:13 2014] [debug] GET "/core-item/core-item.html".
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:19:13 2014] [debug] 404 Not Found (0.003442s, 290.529/s).
+[Thu Sep 18 16:19:13 2014] [debug] GET "/core-elements/core-elements.html".
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:19:13 2014] [debug] 404 Not Found (0.003338s, 299.581/s).
+[Thu Sep 18 16:19:13 2014] [debug] GET "/google-map/google-map.html".
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:19:13 2014] [debug] 404 Not Found (0.003085s, 324.149/s).
+[Thu Sep 18 16:19:13 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:19:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:19:13 2014] [debug] 404 Not Found (0.003499s, 285.796/s).
+[Thu Sep 18 16:19:59 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 16:20:02 2014] [debug] GET "/index".
+[Thu Sep 18 16:20:02 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 16:20:02 2014] [debug] 200 OK (0.005225s, 191.388/s).
+[Thu Sep 18 16:20:02 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:02 2014] [debug] 404 Not Found (0.013876s, 72.067/s).
+[Thu Sep 18 16:20:02 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:02 2014] [debug] 404 Not Found (0.003498s, 285.878/s).
+[Thu Sep 18 16:20:02 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:02 2014] [debug] 404 Not Found (0.003669s, 272.554/s).
+[Thu Sep 18 16:20:02 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:02 2014] [debug] 404 Not Found (0.005964s, 167.673/s).
+[Thu Sep 18 16:20:02 2014] [debug] GET "/paper-input/paper-input.html".
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:02 2014] [debug] 404 Not Found (0.003546s, 282.008/s).
+[Thu Sep 18 16:20:02 2014] [debug] GET "/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:02 2014] [debug] 404 Not Found (0.003372s, 296.560/s).
+[Thu Sep 18 16:20:02 2014] [debug] GET "/paper-button/paper-button.html".
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:02 2014] [debug] 404 Not Found (0.003982s, 251.130/s).
+[Thu Sep 18 16:20:02 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:02 2014] [debug] 404 Not Found (0.004957s, 201.735/s).
+[Thu Sep 18 16:20:02 2014] [debug] GET "/core-menu/core-menu.html".
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:02 2014] [debug] 404 Not Found (0.004529s, 220.799/s).
+[Thu Sep 18 16:20:02 2014] [debug] GET "/core-item/core-item.html".
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:02 2014] [debug] 404 Not Found (0.003617s, 276.472/s).
+[Thu Sep 18 16:20:02 2014] [debug] GET "/core-elements/core-elements.html".
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:02 2014] [debug] 404 Not Found (0.003772s, 265.111/s).
+[Thu Sep 18 16:20:02 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:02 2014] [debug] 404 Not Found (0.003411s, 293.169/s).
+[Thu Sep 18 16:20:02 2014] [debug] GET "/google-map/google-map.html".
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:02 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:02 2014] [debug] 404 Not Found (0.003428s, 291.715/s).
+[Thu Sep 18 16:20:30 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:20:30 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:20:30 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:20:30 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:20:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:20:30 2014] [debug] 404 Not Found (0.006144s, 162.760/s).
+[Thu Sep 18 16:21:40 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 16:21:54 2014] [debug] GET "/index".
+[Thu Sep 18 16:21:54 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 16:21:54 2014] [debug] 200 OK (0.006910s, 144.718/s).
+[Thu Sep 18 16:21:54 2014] [debug] GET "/platform/platform.js".
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:21:54 2014] [debug] 404 Not Found (0.015663s, 63.845/s).
+[Thu Sep 18 16:21:54 2014] [debug] GET "/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:21:54 2014] [debug] 404 Not Found (0.003483s, 287.109/s).
+[Thu Sep 18 16:21:54 2014] [debug] GET "/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:21:54 2014] [debug] 404 Not Found (0.003869s, 258.465/s).
+[Thu Sep 18 16:21:54 2014] [debug] GET "/angular/angular.js".
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:21:54 2014] [debug] 404 Not Found (0.003662s, 273.075/s).
+[Thu Sep 18 16:21:54 2014] [debug] GET "/paper-input/paper-input.html".
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:21:54 2014] [debug] 404 Not Found (0.003477s, 287.604/s).
+[Thu Sep 18 16:21:54 2014] [debug] GET "/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:21:54 2014] [debug] 404 Not Found (0.003341s, 299.312/s).
+[Thu Sep 18 16:21:54 2014] [debug] GET "/paper-button/paper-button.html".
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:21:54 2014] [debug] 404 Not Found (0.005066s, 197.394/s).
+[Thu Sep 18 16:21:54 2014] [debug] GET "/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:21:54 2014] [debug] 404 Not Found (0.003516s, 284.414/s).
+[Thu Sep 18 16:21:54 2014] [debug] GET "/core-item/core-item.html".
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:21:54 2014] [debug] 404 Not Found (0.003202s, 312.305/s).
+[Thu Sep 18 16:21:54 2014] [debug] GET "/core-menu/core-menu.html".
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:21:54 2014] [debug] 404 Not Found (0.003248s, 307.882/s).
+[Thu Sep 18 16:21:54 2014] [debug] GET "/core-elements/core-elements.html".
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:21:54 2014] [debug] 404 Not Found (0.003464s, 288.684/s).
+[Thu Sep 18 16:21:54 2014] [debug] GET "/google-apis/google-apis.html".
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:21:54 2014] [debug] 404 Not Found (0.004609s, 216.967/s).
+[Thu Sep 18 16:21:54 2014] [debug] GET "/google-map/google-map.html".
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:21:54 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:21:54 2014] [debug] 404 Not Found (0.003242s, 308.452/s).
+[Thu Sep 18 16:22:00 2014] [debug] GET "/index/".
+[Thu Sep 18 16:22:00 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:22:00 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 16:22:00 2014] [debug] 200 OK (0.001762s, 567.537/s).
+[Thu Sep 18 16:22:00 2014] [debug] GET "/index/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:22:00 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:00 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:00 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:00 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.005148s, 194.250/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.003997s, 250.188/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/geo_location.js".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.002965s, 337.268/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/angular/angular.js".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.002835s, 352.734/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/platform/platform.js".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.003596s, 278.087/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/ajax_calls.js".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.003475s, 287.770/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/controller/places.js".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.002875s, 347.826/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/paper-input/paper-input.html".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.004571s, 218.771/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/core-item/core-item.html".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.003107s, 321.854/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/paper-button/paper-button.html".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.002950s, 338.983/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.002988s, 334.672/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.003012s, 332.005/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/core-menu/core-menu.html".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.002858s, 349.895/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/core-elements/core-elements.html".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.002982s, 335.345/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/google-map/google-map.html".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.002900s, 344.828/s).
+[Thu Sep 18 16:22:01 2014] [debug] GET "/index/google-apis/google-apis.html".
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:01 2014] [debug] 404 Not Found (0.003155s, 316.957/s).
+[Thu Sep 18 16:22:12 2014] [debug] GET "/index/google-map/google-map.html".
+[Thu Sep 18 16:22:12 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:22:12 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:22:12 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:22:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:22:12 2014] [debug] 404 Not Found (0.003760s, 265.957/s).
+[Thu Sep 18 16:23:30 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/".
+[Thu Sep 18 16:23:32 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 16:23:32 2014] [debug] 200 OK (0.007429s, 134.608/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.014203s, 70.408/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/geo_location.js".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.003644s, 274.424/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/jQuery/jquery-2.1.1.js".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.004246s, 235.516/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/platform/platform.js".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.003305s, 302.572/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/angular/angular.js".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.002859s, 349.773/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/ajax_calls.js".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.003120s, 320.513/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/controller/places.js".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.003097s, 322.893/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/paper-input/paper-input.html".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.003356s, 297.974/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/paper-button/paper-button.html".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.003098s, 322.789/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/core-item/core-item.html".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.003066s, 326.158/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/core-menu/core-menu.html".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.002812s, 355.619/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/core-header-panel/core-header-panel.html".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.002972s, 336.474/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/core-scaffold/core-scaffold.html".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.002810s, 355.872/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/core-elements/core-elements.html".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.003036s, 329.381/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/google-map/google-map.html".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.002923s, 342.114/s).
+[Thu Sep 18 16:23:32 2014] [debug] GET "/index/google-apis/google-apis.html".
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:32 2014] [debug] 404 Not Found (0.002839s, 352.237/s).
+[Thu Sep 18 16:23:38 2014] [debug] GET "/index/google-map/google-map.html".
+[Thu Sep 18 16:23:38 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:23:38 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:23:38 2014] [debug] Rendering cached inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:23:38 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:23:38 2014] [debug] 404 Not Found (0.004143s, 241.371/s).
+[Thu Sep 18 16:25:12 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 16:25:14 2014] [debug] GET "/index/google-map/google-map.html".
+[Thu Sep 18 16:25:14 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Sep 18 16:25:14 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Sep 18 16:25:14 2014] [debug] Rendering inline template "8122878e3bc1034543706fb58b4de464".
+[Thu Sep 18 16:25:14 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Sep 18 16:25:14 2014] [debug] 404 Not Found (0.013092s, 76.383/s).
+[Thu Sep 18 16:25:30 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 16:25:34 2014] [debug] GET "/index".
+[Thu Sep 18 16:25:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:25:34 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 16:25:34 2014] [debug] 200 OK (0.005501s, 181.785/s).
+[Thu Sep 18 16:25:34 2014] [debug] GET "/get_places".
+[Thu Sep 18 16:25:34 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 16:25:34 2014] [debug] 200 OK (0.001042s, 959.693/s).
+[Thu Sep 18 16:26:04 2014] [info] Listening at "http://*:4000".
+[Thu Sep 18 16:26:08 2014] [debug] GET "/index".
+[Thu Sep 18 16:26:08 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:26:08 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 16:26:08 2014] [debug] 200 OK (0.004301s, 232.504/s).
+[Thu Sep 18 16:26:09 2014] [debug] GET "/get_places".
+[Thu Sep 18 16:26:09 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 16:26:09 2014] [debug] 200 OK (0.001066s, 938.086/s).
+[Thu Sep 18 16:26:17 2014] [debug] GET "/index".
+[Thu Sep 18 16:26:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:26:17 2014] [debug] Rendering template "index.html.ep".
+[Thu Sep 18 16:26:17 2014] [debug] 200 OK (0.003826s, 261.370/s).
+[Thu Sep 18 16:26:17 2014] [debug] GET "/get_places".
+[Thu Sep 18 16:26:17 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 16:26:17 2014] [debug] 200 OK (0.001065s, 938.967/s).
+[Thu Sep 18 16:26:19 2014] [debug] GET "/".
+[Thu Sep 18 16:26:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:26:19 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 16:26:19 2014] [debug] 200 OK (0.000518s, 1930.502/s).
+[Thu Sep 18 16:26:19 2014] [debug] GET "/get_places".
+[Thu Sep 18 16:26:19 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 16:26:19 2014] [debug] 200 OK (0.001140s, 877.193/s).
+[Thu Sep 18 16:26:22 2014] [debug] GET "/".
+[Thu Sep 18 16:26:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "index".
+[Thu Sep 18 16:26:22 2014] [debug] Rendering cached template "index.html.ep".
+[Thu Sep 18 16:26:22 2014] [debug] 200 OK (0.000398s, 2512.563/s).
+[Thu Sep 18 16:26:22 2014] [debug] GET "/get_places".
+[Thu Sep 18 16:26:22 2014] [debug] Routing to controller "MapChallange::Controller::Base" and action "get_places".
+[Thu Sep 18 16:26:22 2014] [debug] 200 OK (0.000947s, 1055.966/s).

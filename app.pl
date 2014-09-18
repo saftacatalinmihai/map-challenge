@@ -83,7 +83,7 @@ my $c = container 'MapChallange' => ['Env'] => as {
 	container 'Search' => as {
 		service 'search_engine' => (
 			block => sub {
-				my $s = shift;
+				my $s = shift; 
 				require  Search::Elasticsearch;
 				my $es = Search::Elasticsearch->new(
 				    nodes => $s->param('host').":".$s->param('port'),
